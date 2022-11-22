@@ -1,0 +1,23 @@
+[
+    {
+        "cardword": "COURT",
+        "cardword_sense": "m_en_gbus0227120.006",
+        "clue_sense": "m_en_gbus0536750.015",
+        "clue_token": "JUDGE",
+        "label": 2
+    },
+    {
+        "cardword": "POLE",
+        "cardword_sense": "m_en_gbus0794790.004",
+        "clue_sense": "m_en_gbus0583770.011",
+        "clue_token": "LINE",
+        "label": 2
+    },
+    {
+        "cardword": "IRON",
+        "cardword_sense": "m_en_gbus0522050.006",
+        "clue_sense": "m_en_gbus0218500.006",
+        "clue_token": "COPPER",
+        "label": 2
+    }
+]

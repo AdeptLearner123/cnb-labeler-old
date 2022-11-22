@@ -18,6 +18,8 @@ isort = "^5.10.1"
 format                          = "tasks:format"
 
 negative-labeler                = "cnb_labeler.negative_labeler:main"
+positive-labeler                = "cnb_labeler.positive_labeler:main"
+scenario-labeler                = "cnb_labeler.scenario_labeler:main"
 
 [build-system]
 requires = ["poetry-core"]

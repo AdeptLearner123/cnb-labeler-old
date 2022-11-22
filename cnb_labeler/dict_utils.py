@@ -8,8 +8,9 @@ def read_dicts():
     dictionary = dict()
 
     for filename in os.listdir(DICTS_DIR):
-        with open(os.path.join(DICTS_DIR, filename), "r") as file:
-            dictionary.update(json.loads(file.read()))
+        if filename.endswith(".json"):
+            with open(os.path.join(DICTS_DIR, filename), "r") as file:
+                dictionary.update(json.loads(file.read()))
     
     return dictionary
 
