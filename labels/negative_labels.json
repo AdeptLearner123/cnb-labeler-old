@@ -1,0 +1,212 @@
+[
+    {
+        "cardword": "DEGREE",
+        "cardword_sense": "m_en_gbus0260580.006",
+        "clue_sense": "m_en_gbus0210520.005",
+        "clue_token": "CONFRONT",
+        "label": 0
+    },
+    {
+        "cardword": "POLICE",
+        "cardword_sense": "m_en_gbus0795030.010",
+        "clue_sense": "Organization",
+        "clue_token": "Organization",
+        "label": 1
+    },
+    {
+        "cardword": "PASTE",
+        "cardword_sense": "m_en_gbus0753550.005",
+        "clue_sense": "m_en_gbus0068850.014",
+        "clue_token": "BALL",
+        "label": 0
+    },
+    {
+        "cardword": "MOLE",
+        "cardword_sense": "m_en_gbus0653970.015",
+        "clue_sense": "Veuve_Clicquot",
+        "clue_token": "Veuve",
+        "label": 0
+    },
+    {
+        "cardword": "CLUB",
+        "cardword_sense": "m_en_gbus0192590.025",
+        "clue_sense": "m_en_gbus0277390.011",
+        "clue_token": "DIOXANE",
+        "label": 0
+    },
+    {
+        "cardword": "HOTEL",
+        "cardword_sense": "m_en_gbus0480960.012",
+        "clue_sense": "Yulimar_Rojas",
+        "clue_token": "Yulimar",
+        "label": 0
+    },
+    {
+        "cardword": "CHOCOLATE",
+        "cardword_sense": "m_en_gbus0179100.012",
+        "clue_sense": "m_en_gbus0936770.012",
+        "clue_token": "SHIRTFRONT",
+        "label": 0
+    },
+    {
+        "cardword": "OCTOPUS",
+        "cardword_sense": "m_en_gbus0711360.006",
+        "clue_sense": "m_en_gbus0711470.005",
+        "clue_token": "OCULAR",
+        "label": 1
+    },
+    {
+        "cardword": "LIGHT",
+        "cardword_sense": "m_en_gbus0581180.014",
+        "clue_sense": "m_en_gbus0823870.008",
+        "clue_token": "PROUDHON",
+        "label": 0
+    },
+    {
+        "cardword": "SNOW",
+        "cardword_sense": "m_en_gbus0962040.006",
+        "clue_sense": "m_en_gbus1121350.022",
+        "clue_token": "VARY",
+        "label": 0
+    },
+    {
+        "cardword": "POST",
+        "cardword_sense": "m_en_gbus0802710.016",
+        "clue_sense": "m_en_gbus0796460.012",
+        "clue_token": "POLYCHAETE",
+        "label": 0
+    },
+    {
+        "cardword": "AGENT",
+        "cardword_sense": "m_en_gbus0015800.014",
+        "clue_sense": "m_en_gbus0357820.012",
+        "clue_token": "FESTER",
+        "label": 0
+    },
+    {
+        "cardword": "CHICK",
+        "cardword_sense": "m_en_gbus0175080.003",
+        "clue_sense": "m_en_gbus1144920.005",
+        "clue_token": "WATTMETER",
+        "label": 0
+    },
+    {
+        "cardword": "CIRCLE",
+        "cardword_sense": "m_en_gbus0184670.012",
+        "clue_sense": "Charlyne_Yi",
+        "clue_token": "Charlyne",
+        "label": 0
+    },
+    {
+        "cardword": "NEW YORK",
+        "cardword_sense": "m_en_gbus0689610.008",
+        "clue_sense": "Shriya_Saran",
+        "clue_token": "Shriya",
+        "label": 0
+    },
+    {
+        "cardword": "PRESS",
+        "cardword_sense": "m_en_gbus0812770.040",
+        "clue_sense": "Jordan_Klepper",
+        "clue_token": "Jordan",
+        "label": 0
+    },
+    {
+        "cardword": "LONDON",
+        "cardword_sense": "m_en_gbus0592350.010",
+        "clue_sense": "m_en_gbus0511990.012",
+        "clue_token": "INSENSITIVE",
+        "label": 0
+    },
+    {
+        "cardword": "LOCK",
+        "cardword_sense": "m_en_gbus0590260.040",
+        "clue_sense": "m_en_gbus0256200.019",
+        "clue_token": "DECAY",
+        "label": 0
+    },
+    {
+        "cardword": "AZTEC",
+        "cardword_sense": "m_en_gbus0062760.010",
+        "clue_sense": "m_en_gbus0019620.005",
+        "clue_token": "AKEBIA",
+        "label": 0
+    },
+    {
+        "cardword": "KID",
+        "cardword_sense": "m_en_gbus0547740.013",
+        "clue_sense": "m_en_gbus1094240.006",
+        "clue_token": "UNCONTACTABLE",
+        "label": 0
+    },
+    {
+        "cardword": "LASER",
+        "cardword_sense": "m_en_gbus0566390.010",
+        "clue_sense": "m_en_gbus0330260.011",
+        "clue_token": "EQUESTRIAN",
+        "label": 0
+    },
+    {
+        "cardword": "PART",
+        "cardword_sense": "m_en_gbus0751210.056",
+        "clue_sense": "m_en_gbus0232890.005",
+        "clue_token": "CRESTFALLEN",
+        "label": 0
+    },
+    {
+        "cardword": "SLIP",
+        "cardword_sense": "m_en_gbus0955470.032",
+        "clue_sense": "Josh_McDaniels",
+        "clue_token": "Josh",
+        "label": 0
+    },
+    {
+        "cardword": "SKYSCRAPER",
+        "cardword_sense": "m_en_gbus0952920.005",
+        "clue_sense": "m_en_gbus0869630.005",
+        "clue_token": "REVIVE",
+        "label": 0
+    },
+    {
+        "cardword": "SPINE",
+        "cardword_sense": "m_en_gbus0978530.017",
+        "clue_sense": "m_en_gbus0259960.013",
+        "clue_token": "DEFLECT",
+        "label": 0
+    },
+    {
+        "cardword": "BUCK",
+        "cardword_sense": "m_en_gbus0131440.031",
+        "clue_sense": "m_en_gbus0108390.013",
+        "clue_token": "BOAT",
+        "label": 1
+    },
+    {
+        "cardword": "LUCK",
+        "cardword_sense": "m_en_gbus0599480.008",
+        "clue_sense": "m_en_gbus0128060.006",
+        "clue_token": "BROME",
+        "label": 0
+    },
+    {
+        "cardword": "LION",
+        "cardword_sense": "m_en_gbus0585180.013",
+        "clue_sense": "m_en_gbus1095430.003",
+        "clue_token": "UNDERBRIDGE",
+        "label": 0
+    },
+    {
+        "cardword": "KETCHUP",
+        "cardword_sense": "m_en_gbus0545730.004",
+        "clue_sense": "m_en_gbus0627810.012",
+        "clue_token": "MEATBALL",
+        "label": 2
+    },
+    {
+        "cardword": "TUBE",
+        "cardword_sense": "m_en_gbus1080120.047",
+        "clue_sense": "m_en_gbus0518830.024",
+        "clue_token": "INTRODUCE",
+        "label": 0
+    }
+]
