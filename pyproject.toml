@@ -8,6 +8,7 @@ packages = [{include = "cnb_labeler"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+colorama = "^0.4.6"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -20,6 +21,7 @@ format                          = "tasks:format"
 negative-labeler                = "cnb_labeler.negative_labeler:main"
 positive-labeler                = "cnb_labeler.positive_labeler:main"
 scenario-labeler                = "cnb_labeler.scenario_labeler:main"
+compile-labels                  = "cnb_labeler.compile_labels:main"
 
 [build-system]
 requires = ["poetry-core"]

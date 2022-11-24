@@ -1,0 +1,345 @@
+[
+    {
+        "word1": "check",
+        "def1": "deposit (a coat, bag, or other item) for temporary safekeeping in the cloakroom of a restaurant, theater, etc.",
+        "word2": "repugnance",
+        "def2": "intense disgust.",
+        "label": 0
+    },
+    {
+        "word1": "David Moscow",
+        "def1": "David Raphael Moscow is an American actor, producer and activist. He is best known for his role as the young Josh Baskin in the 1988 film Big and as David in the 1992 musical film Newsies.",
+        "word2": "London, Ontario",
+        "def2": "For the city of the United Kingdom, see London.",
+        "label": 0
+    },
+    {
+        "word1": "ketchup",
+        "def1": "a smooth sauce made chiefly from tomatoes and vinegar, used as a condiment.",
+        "word2": "meatball",
+        "def2": "a ball of ground or chopped meat, usually beef, with added seasonings.",
+        "label": 2
+    },
+    {
+        "word1": "laser",
+        "def1": "treat or remove (something) using a laser, especially as part of surgery.",
+        "word2": "equestrian",
+        "def2": "a rider or performer on horseback.",
+        "label": 0
+    },
+    {
+        "word1": "embassy",
+        "def1": "the position or function of an ambassador.",
+        "word2": "Dick Cheney",
+        "def2": "Richard Bruce Cheney is an American politician and businessman who served as the 46th vice president of the United States from 2001 to 2009 under President George W. Bush. He is currently the oldest living former U.S. vice president, following the death of Walter Mondale in 2021.",
+        "label": 1
+    },
+    {
+        "word1": "buck",
+        "def1": "(of a vehicle) make sudden jerky movements.",
+        "word2": "boating",
+        "def2": "travel or go in a boat for pleasure.",
+        "label": 1
+    },
+    {
+        "word1": "pin",
+        "def1": "hold someone firmly in a specified position so they are unable to move.",
+        "word2": "deighton, len",
+        "def2": "(born 1929), English writer; full name Leonard Cyril Deighton. Several of his spy thrillers have been adapted as movies and for television. Notable works: The Ipcress File (1962) and the trilogy Berlin Game, Mexico Set, and London Match (1983–85).",
+        "label": 0
+    },
+    {
+        "word1": "Bermuda Triangle",
+        "def1": "The Bermuda Triangle, also known as the Devil's Triangle, is an urban legend focused on a loosely-defined region in the western part of the North Atlantic Ocean where a number of aircraft and ships are said to have disappeared under mysterious circumstances. The idea of the area as uniquely prone to disappearances arose in the mid-20th century, but most reputable sources dismiss the idea that there is any mystery.",
+        "word2": "dedication",
+        "def2": "the words with which a book or other artistic work is dedicated.",
+        "label": 0
+    },
+    {
+        "word1": "hospital",
+        "def1": "a charitable institution for the education of the young.",
+        "word2": "boyfriend",
+        "def2": "a regular male companion with whom one has a romantic or sexual relationship.",
+        "label": 0
+    },
+    {
+        "word1": "school",
+        "def1": "any institution at which instruction is given in a particular discipline.",
+        "word2": "sorbus",
+        "def2": "a tree or shrub of a genus which includes the rowan, service tree, and whitebeam.",
+        "label": 0
+    },
+    {
+        "word1": "web",
+        "def1": "a network of fine threads constructed by a spider from fluid secreted by its spinnerets, used to catch its prey.",
+        "word2": "austronesian",
+        "def2": "the Austronesian family of languages.",
+        "label": 0
+    },
+    {
+        "word1": "marble",
+        "def1": "a small ball of colored glass or similar material used as a toy.",
+        "word2": "ball",
+        "def2": "a spherical object or mass of material.",
+        "label": 2
+    },
+    {
+        "word1": "Microscope",
+        "def1": "A microscope is a laboratory instrument used to examine objects that are too small to be seen by the naked eye. Microscopy is the science of investigating small objects and structures using a microscope. Microscopic means being invisible to the eye unless aided by a microscope.",
+        "word2": "numbing",
+        "def2": "deprive of feeling or responsiveness.",
+        "label": 0
+    },
+    {
+        "word1": "fish",
+        "def1": "a limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+        "word2": "swimming",
+        "def2": "propel the body through water by using the limbs, or (in the case of a fish or other aquatic animal) by using fins, tail, or other bodily movement.",
+        "label": 2
+    },
+    {
+        "word1": "robin",
+        "def1": "a large New World thrush that typically has a reddish breast.",
+        "word2": "bird",
+        "def2": "a warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak and (typically) by being able to fly.",
+        "label": 2
+    },
+    {
+        "word1": "brush",
+        "def1": "an implement with a handle, consisting of bristles, hair, or wire set into a block, used for cleaning or scrubbing, applying a liquid or powder to a surface, arranging the hair, or other purposes.",
+        "word2": "hand",
+        "def2": "the end part of a person's arm beyond the wrist, including the palm, fingers, and thumb.",
+        "label": 2
+    },
+    {
+        "word1": "robot",
+        "def1": "a machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.",
+        "word2": "machine",
+        "def2": "an apparatus using or applying mechanical power and having several parts, each with a definite function and together performing a particular task.",
+        "label": 2
+    },
+    {
+        "word1": "Ray Park",
+        "def1": "Raymond Park is a Scottish actor and stuntman. He is best known for physically portraying Darth Maul in Star Wars: Episode I – The Phantom Menace and Solo: A Star Wars Story, along with a motion capture performance in the final season of Star Wars: The Clone Wars, Toad in X-Men, Snake Eyes in G.I. Joe: The Rise of Cobra and G.I. Joe: Retaliation, and Edgar on Heroes.",
+        "word2": "The Tunnel",
+        "def2": "The Tunnel is a British-French crime drama television series adapted from the 2011 Danish-Swedish crime series The Bridge (Bron/Broen). The series began broadcasting on 16 October 2013 on Sky Atlantic in the UK, and on 11 November 2013 on Canal+ in France. The series stars Stephen Dillane and Clémence Poésy as British and French police detectives Karl Roebuck and Elise Wassermann. The plot follows the two detectives working together to find a serial killer who left the upper half of a French politician and the lower half of a British prostitute in the Channel Tunnel at the midpoint between France and the UK. The killer is nicknamed the \"Truth Terrorist\" and is on a moral crusade to highlight many social problems, terrorising both countries in the process. As the series progresses, the killer's true intention is revealed.",
+        "label": 1
+    },
+    {
+        "word1": "forest",
+        "def1": "a large area covered chiefly with trees and undergrowth.",
+        "word2": "logging",
+        "def2": "cut down (an area of forest) in order to exploit the timber commercially.",
+        "label": 2
+    },
+    {
+        "word1": "spy",
+        "def1": "a person who secretly collects and reports information on the activities, movements, and plans of an enemy or competitor.",
+        "word2": "secret",
+        "def2": "(of information or documents) given the security classification above confidential and below top secret.",
+        "label": 2
+    },
+    {
+        "word1": "sock",
+        "def1": "a garment for the foot and lower part of the leg, typically knitted from wool, cotton, or nylon.",
+        "word2": "foot",
+        "def2": "the lower extremity of the leg below the ankle, on which a person stands or walks.",
+        "label": 2
+    },
+    {
+        "word1": "locked",
+        "def1": "(of a door, window, box, etc.) become or be able to be secured through activation of a lock.",
+        "word2": "decay",
+        "def2": "rotten matter or tissue.",
+        "label": 0
+    },
+    {
+        "word1": "trunks",
+        "def1": "the main part of an artery, nerve, or other anatomical structure from which smaller branches arise.",
+        "word2": "Armaan Malik",
+        "def2": "Armaan Malik is an Indian singer-songwriter, record producer, voice-over, performer, dancer and actor. He is known for his singing in multiple languages, including Hindi, Telugu, English, Bengali, Kannada, Marathi, Tamil, Gujarati, Punjabi, Urdu and Malayalam. In 2006, he took part in Sa Re Ga Ma Pa L'il Champs but was eliminated after finishing in 8th position. He is the brother of music composer Amaal Mallik. Previously represented by Universal Music India and T-Series, he is now represented by Warner Music India and Arista Records. His first on-screen appearance was in the film Kaccha Limboo in the year 2011.",
+        "label": 0
+    },
+    {
+        "word1": "pistol",
+        "def1": "a small firearm designed to be held in one hand.",
+        "word2": "bullet",
+        "def2": "a metal projectile for firing from a rifle, revolver, or other small firearm, typically cylindrical and pointed, and sometimes containing an explosive.",
+        "label": 2
+    },
+    {
+        "word1": "dog",
+        "def1": "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice.",
+        "word2": "cat",
+        "def2": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.",
+        "label": 2
+    },
+    {
+        "word1": "press",
+        "def1": "a machine that applies pressure to a workpiece by means of a tool, in order to punch shapes.",
+        "word2": "Jordan Klepper",
+        "def2": "Jordan Klepper is an American comedian, journalist, writer, producer, political commentator, television host, and actor. He began his career as a member of The Second City and Upright Citizens Brigade. From 2014 to 2017, he was a correspondent on The Daily Show. He started his own satirical program, The Opposition with Jordan Klepper, which was cancelled in 2018. He then starred in the 2019 docuseries, Klepper, before returning to The Daily Show later that year.",
+        "label": 0
+    },
+    {
+        "word1": "mol",
+        "def1": "someone within an organization who anonymously betrays confidential information.",
+        "word2": "Veuve Clicquot",
+        "def2": "Veuve Clicquot Ponsardin is a Champagne house founded in 1772 and based in Reims. It is one of the largest Champagne houses. Madame Clicquot is credited with major breakthroughs, creating the first known vintage champagne in 1810, and inventing the riddling table process to clarify champagne in 1816. In 1818, she invented the first known blended rosé champagne by blending still red and white wines, a process still used by the majority of champagne producers.",
+        "label": 0
+    },
+    {
+        "word1": "fan",
+        "def1": "a device, typically folding and shaped like a segment of a circle when spread out, that is held in the hand and waved so as to cool the person holding it by causing the air to move.",
+        "word2": "hand",
+        "def2": "the end part of a person's arm beyond the wrist, including the palm, fingers, and thumb.",
+        "label": 2
+    },
+    {
+        "word1": "light",
+        "def1": "(of type) having thin strokes; not bold.",
+        "word2": "lonesome",
+        "def2": "remote and unfrequented.",
+        "label": 0
+    },
+    {
+        "word1": "rowing",
+        "def1": "engage in the sport of rowing, especially competitively.",
+        "word2": "eggshell",
+        "def2": "the thin, hard outer layer of an egg, especially a hen's egg.",
+        "label": 0
+    },
+    {
+        "word1": "circle",
+        "def1": "move in a wide loop back toward one's starting point.",
+        "word2": "glowing",
+        "def2": "have a heightened color or a bloom on the skin as a result of warmth or health.",
+        "label": 0
+    },
+    {
+        "word1": "sub",
+        "def1": "act as a substitute for someone.",
+        "word2": "quotation",
+        "def2": "the action of quoting from a text, speech, piece of music, or work of art.",
+        "label": 0
+    },
+    {
+        "word1": "pants",
+        "def1": "trousers.",
+        "word2": "leg",
+        "def2": "each of the limbs on which a person or animal walks and stands.",
+        "label": 2
+    },
+    {
+        "word1": "pipe",
+        "def1": "a wind instrument consisting of a single tube with holes along its length that are covered by the fingers to produce different notes.",
+        "word2": "Condoleezza Rice",
+        "def2": "Condoleezza Rice is an American diplomat and political scientist who is the current director of the Hoover Institution at Stanford University. A member of the Republican Party, she previously served as the 66th United States secretary of state from 2005 to 2009 and as the 19th United States national security advisor from 2001 to 2005. Rice was the first female African-American secretary of state and the first woman to serve as national security advisor. Until the election of Barack Obama as president in 2008, Rice and her predecessor, Colin Powell, were the highest-ranking African Americans in the history of the federal executive branch. At the time of her appointment as Secretary of State, Rice was the highest-ranking woman in the history of the United States to be in the presidential line of succession.",
+        "label": 0
+    },
+    {
+        "word1": "agent",
+        "def1": "a person who obtains information for a government or other official body, typically in secret.",
+        "word2": "central intelligence agency",
+        "def2": "a US federal agency responsible for coordinating government intelligence activities.",
+        "label": 2
+    },
+    {
+        "word1": "himalayas",
+        "def1": "a vast mountain system in southern Asia that extends for 1,500 miles (2,400 km) from Kashmir east to Assam. The Himalayas consist of a series of parallel ranges that rise up from the Ganges River basin to the Tibetan plateau. The backbone is the Great Himalayan Range, the highest mountain range in the world, with several peaks rising to over 25,000 feet (7,700 m), the highest being Mount Everest.",
+        "word2": "Toussaint Louverture",
+        "def2": "François-Dominique Toussaint Louverture was a Haitian general and the most prominent leader of the Haitian Revolution. During his life, Louverture first fought against the French, then for them, and then finally against France again for the cause of Haitian independence. As a revolutionary leader, Louverture displayed military and political acumen that helped transform the fledgling slave rebellion into a revolutionary movement. Louverture is now known as the \"Father of Haiti\".",
+        "label": 0
+    },
+    {
+        "word1": "Skyscraper",
+        "def1": "A skyscraper is a tall continuously habitable building having multiple floors. Modern sources currently define skyscrapers as being at least 100 metres (330 ft) or 150 metres (490 ft) in height, though there is no universally accepted definition. Skyscrapers are very tall high-rise buildings. Historically, the term first referred to buildings with between 10 and 20 stories when these types of buildings began to be constructed in the 1880s. Skyscrapers may host offices, hotels, residential spaces, and retail spaces.",
+        "word2": "Vivarium",
+        "def2": "Vivarium is a 2019 science fiction thriller film directed by Lorcan Finnegan, from a story by Finnegan and Garret Shanley. An international co-production between Ireland, Denmark and Belgium, it stars Imogen Poots and Jesse Eisenberg. It premiered at the Cannes Film Festival on 18 May 2019, and was released in Ireland on 27 March 2020 by Vertigo Releasing. The film follows a couple that is forced to care for a child while trapped in a seemingly perfect neighbourhood.",
+        "label": 0
+    },
+    {
+        "word1": "chick",
+        "def1": "(in South Asia) a folding bamboo screen for a doorway.",
+        "word2": "wattmeter",
+        "def2": "a meter for measuring electric power in watts.",
+        "label": 0
+    },
+    {
+        "word1": "spell",
+        "def1": "a form of words used as a magical charm or incantation.",
+        "word2": "neurocognitive",
+        "def2": "denoting or relating to the neural processes and structures involved in cognition.",
+        "label": 0
+    },
+    {
+        "word1": "tablet",
+        "def1": "a small disk or cylinder of a compressed solid substance, typically a measured amount of a medicine or drug; a pill.",
+        "word2": "Apostle",
+        "def2": "Apostle is a 2018 period folk horror film written, directed and edited by Gareth Evans, and starring Dan Stevens, Lucy Boynton, Mark Lewis Jones, Bill Milner, Kristine Froseth, Paul Higgins and Michael Sheen. It had its world premiere at Fantastic Fest in September 2018, and began streaming on Netflix on October 12, 2018. The story follows a British man as he attempts to rescue his sister from a cult on a remote island. The film received generally positive reviews from critics.",
+        "label": 0
+    },
+    {
+        "word1": "dwarf",
+        "def1": "(in folklore or fantasy literature) a member of a mythical race of short, stocky humanlike creatures who are generally skilled in mining and metalworking.",
+        "word2": "giant",
+        "def2": "an imaginary or mythical being of human form but superhuman size.",
+        "label": 2
+    },
+    {
+        "word1": "Dalvin Cook",
+        "def1": "Dalvin James Cook is an American football running back for the Minnesota Vikings of the National Football League (NFL). He played college football at Florida State, where he finished his career as the school's all-time leading rusher. Cook was drafted by the Vikings in the second round of the 2017 NFL Draft.",
+        "word2": "Dana Carvey",
+        "def2": "Dana Thomas Carvey is an American stand-up comedian, actor, impressionist, screenwriter, and producer. He is best known for his seven seasons as a cast member on Saturday Night Live from 1986 to 1993, which earned him five consecutive Primetime Emmy Award nominations.",
+        "label": 1
+    },
+    {
+        "word1": "head",
+        "def1": "the upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.",
+        "word2": "mind",
+        "def2": "the element of a person that enables them to be aware of the world and their experiences, to think, and to feel; the faculty of consciousness and thought.",
+        "label": 2
+    },
+    {
+        "word1": "lion",
+        "def1": "a brave or strong person.",
+        "word2": "underbridge",
+        "def2": "a bridge spanning an opening under a railway or road.",
+        "label": 0
+    },
+    {
+        "word1": "litter",
+        "def1": "provide (a horse or other animal) with litter as bedding.",
+        "word2": "Horticulture",
+        "def2": "Horticulture is the art of cultivating plants in gardens to produce food and medicinal ingredients, or for comfort and ornamental purposes. Horticulturists are agriculturists who grow flowers, fruits and nuts, vegetables and herbs, as well as ornamental trees and lawns.",
+        "label": 0
+    },
+    {
+        "word1": "plastic",
+        "def1": "a synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc., that can be molded into shape while soft and then set into a rigid or slightly elastic form.",
+        "word2": "material",
+        "def2": "the matter from which a thing is or can be made.",
+        "label": 2
+    },
+    {
+        "word1": "square",
+        "def1": "a plane figure with four equal straight sides and four right angles.",
+        "word2": "shape",
+        "def2": "a geometric figure such as a square, triangle, or rectangle.",
+        "label": 2
+    },
+    {
+        "word1": "personal identification number",
+        "def1": "a number allocated to an individual and used to validate electronic transactions.",
+        "word2": "gideon",
+        "def2": "a member of Gideons International.",
+        "label": 0
+    },
+    {
+        "word1": "shadow",
+        "def1": "a region of opacity on a radiograph.",
+        "word2": "goiânia",
+        "def2": "a city in southern central Brazil, capital of the state of Goiás; population 1,244,645 (2007). It was founded as a new city in 1933.",
+        "label": 0
+    }
+]

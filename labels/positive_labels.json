@@ -19,5 +19,684 @@
         "clue_sense": "m_en_gbus0218500.006",
         "clue_token": "COPPER",
         "label": 2
+    },
+    {
+        "cardword": "BEAT",
+        "cardword_sense": "m_en_gbus0081200.052",
+        "clue_sense": "m_en_gbus0672130.006",
+        "clue_token": "MUSIC",
+        "label": 2
+    },
+    {
+        "cardword": "POUND",
+        "cardword_sense": "m_en_gbus0805510.006",
+        "clue_sense": "m_en_gbus1148080.007",
+        "clue_token": "WEIGHT",
+        "label": 2
+    },
+    {
+        "cardword": "HORSESHOE",
+        "cardword_sense": "m_en_gbus0480000.006",
+        "clue_sense": "m_en_gbus0636070.006",
+        "clue_token": "METAL",
+        "label": 2
+    },
+    {
+        "cardword": "TIME",
+        "cardword_sense": "m_en_gbus1054600.006",
+        "clue_sense": "m_en_gbus0190920.018",
+        "clue_token": "CLOCK",
+        "label": 2
+    },
+    {
+        "cardword": "SUB",
+        "cardword_sense": "m_en_gbus1006120.006",
+        "clue_sense": "m_en_gbus0710410.008",
+        "clue_token": "OCEAN",
+        "label": 3
+    },
+    {
+        "cardword": "CRANE",
+        "cardword_sense": "m_en_gbus0230230.005",
+        "clue_sense": "m_en_gbus0213410.018",
+        "clue_token": "CONSTRUCTION",
+        "label": 3
+    },
+    {
+        "cardword": "JAM",
+        "cardword_sense": "m_en_gbus0528460.005",
+        "clue_sense": "m_en_gbus0553130.008",
+        "clue_token": "KNIFE",
+        "label": 3
+    },
+    {
+        "cardword": "AGENT",
+        "cardword_sense": "m_en_gbus0015800.011",
+        "clue_sense": "m_en_gbus0163840.006",
+        "clue_token": "CIA",
+        "label": 2
+    },
+    {
+        "cardword": "GIANT",
+        "cardword_sense": "m_en_gbus0412510.006",
+        "clue_sense": "m_en_gbus0565860.006",
+        "clue_token": "LARGE",
+        "label": 2
+    },
+    {
+        "cardword": "CLOAK",
+        "cardword_sense": "m_en_gbus0190830.014",
+        "clue_sense": "m_en_gbus1146260.013",
+        "clue_token": "WEAR",
+        "label": 2
+    },
+    {
+        "cardword": "CYCLE",
+        "cardword_sense": "m_en_gbus0245280.024",
+        "clue_sense": "m_en_gbus0872780.019",
+        "clue_token": "RIDE",
+        "label": 2
+    },
+    {
+        "cardword": "UNICORN",
+        "cardword_sense": "m_en_gbus1101700.007",
+        "clue_sense": "m_en_gbus0675140.008",
+        "clue_token": "MYTHICAL",
+        "label": 2
+    },
+    {
+        "cardword": "PAPER",
+        "cardword_sense": "m_en_gbus0746290.006",
+        "clue_sense": "m_en_gbus1071800.006",
+        "clue_token": "TREE",
+        "label": 2
+    },
+    {
+        "cardword": "LAB",
+        "cardword_sense": "m_en_gbus0558440.005",
+        "clue_sense": "m_en_gbus0908190.003",
+        "clue_token": "SCIENCE",
+        "label": 2
+    },
+    {
+        "cardword": "EGYPT",
+        "cardword_sense": "m_en_gbus0314210.005",
+        "clue_sense": "m_en_gbus0226250.006",
+        "clue_token": "COUNTRY",
+        "label": 2
+    },
+    {
+        "cardword": "WAKE",
+        "cardword_sense": "m_en_gbus1138080.014",
+        "clue_sense": "m_en_gbus0954440.006",
+        "clue_token": "SLEEP",
+        "label": 2
+    },
+    {
+        "cardword": "PASTE",
+        "cardword_sense": "m_en_gbus0753550.020",
+        "clue_sense": "m_en_gbus0218950.024",
+        "clue_token": "COPY",
+        "label": 2
+    },
+    {
+        "cardword": "HORSESHOE",
+        "cardword_sense": "m_en_gbus0480000.006",
+        "clue_sense": "m_en_gbus0243130.006",
+        "clue_token": "CURVED",
+        "label": 2
+    },
+    {
+        "cardword": "CHURCH",
+        "cardword_sense": "m_en_gbus0182830.005",
+        "clue_sense": "m_en_gbus0180910.006",
+        "clue_token": "CHRISTIAN",
+        "label": 2
+    },
+    {
+        "cardword": "IVORY",
+        "cardword_sense": "m_en_gbus0526330.006",
+        "clue_sense": "m_en_gbus0317750.007",
+        "clue_token": "ELEPHANT",
+        "label": 2
+    },
+    {
+        "cardword": "PLASTIC",
+        "cardword_sense": "m_en_gbus0787980.005",
+        "clue_sense": "m_en_gbus0623570.006",
+        "clue_token": "MATERIAL",
+        "label": 2
+    },
+    {
+        "cardword": "SPACE",
+        "cardword_sense": "m_en_gbus0972460.017",
+        "clue_sense": "m_en_gbus0276150.013",
+        "clue_token": "DIMENSION",
+        "label": 2
+    },
+    {
+        "cardword": "PALM",
+        "cardword_sense": "m_en_gbus0743270.014",
+        "clue_sense": "m_en_gbus0448120.008",
+        "clue_token": "HAND",
+        "label": 2
+    },
+    {
+        "cardword": "EUROPE",
+        "cardword_sense": "m_en_gbus0336560.005",
+        "clue_sense": "m_en_gbus0051250.006",
+        "clue_token": "ASIA",
+        "label": 2
+    },
+    {
+        "cardword": "DUCK",
+        "cardword_sense": "m_en_gbus0301720.007",
+        "clue_sense": "m_en_gbus0287810.007",
+        "clue_token": "DOG",
+        "label": 2
+    },
+    {
+        "cardword": "SPY",
+        "cardword_sense": "m_en_gbus0983620.005",
+        "clue_sense": "m_en_gbus0916420.009",
+        "clue_token": "SECRET",
+        "label": 2
+    },
+    {
+        "cardword": "SOCK",
+        "cardword_sense": "m_en_gbus0964250.006",
+        "clue_sense": "m_en_gbus0378620.010",
+        "clue_token": "FOOT",
+        "label": 2
+    },
+    {
+        "cardword": "TEMPLE",
+        "cardword_sense": "m_en_gbus1038530.005",
+        "clue_sense": "m_en_gbus0455700.267",
+        "clue_token": "HEAD",
+        "label": 2
+    },
+    {
+        "cardword": "AMAZON",
+        "cardword_sense": "Amazon_(company)",
+        "clue_sense": "Jeff_Bezos",
+        "clue_token": "JEFF",
+        "label": 2
+    },
+    {
+        "cardword": "AMAZON",
+        "cardword_sense": "Amazon_(company)",
+        "clue_sense": "m_en_gbus0936160.034",
+        "clue_token": "SHIP",
+        "label": 3
+    },
+    {
+        "cardword": "WALL",
+        "cardword_sense": "m_en_gbus1138760.029",
+        "clue_sense": "m_en_gbus0881230.020",
+        "clue_token": "ROOF",
+        "label": 2
+    },
+    {
+        "cardword": "FAN",
+        "cardword_sense": "m_en_gbus0349960.012",
+        "clue_sense": "m_en_gbus0448120.008",
+        "clue_token": "HAND",
+        "label": 2
+    },
+    {
+        "cardword": "COMPOUND",
+        "cardword_sense": "m_en_gbus0206810.026",
+        "clue_sense": "m_en_gbus0515570.015",
+        "clue_token": "INTEREST",
+        "label": 2
+    },
+    {
+        "cardword": "RING",
+        "cardword_sense": "m_en_gbus0874580.008",
+        "clue_sense": "m_en_gbus0363040.005",
+        "clue_token": "FINGER",
+        "label": 2
+    },
+    {
+        "cardword": "SCIENTIST",
+        "cardword_sense": "m_en_gbus0908330.003",
+        "clue_sense": "m_en_gbus0280460.013",
+        "clue_token": "DISCOVER",
+        "label": 2
+    },
+    {
+        "cardword": "SHARK",
+        "cardword_sense": "m_en_gbus0932520.006",
+        "clue_sense": "m_en_gbus0098970.012",
+        "clue_token": "BITE",
+        "label": 2
+    },
+    {
+        "cardword": "PIPE",
+        "cardword_sense": "m_en_gbus0783370.006",
+        "clue_sense": "m_en_gbus0245770.019",
+        "clue_token": "CYLINDER",
+        "label": 2
+    },
+    {
+        "cardword": "BOW",
+        "cardword_sense": "m_en_gbus0118370.012",
+        "clue_sense": "m_en_gbus1003050.006",
+        "clue_token": "STRING",
+        "label": 2
+    },
+    {
+        "cardword": "UNDERTAKER",
+        "cardword_sense": "m_en_gbus1097160.003",
+        "clue_sense": "m_en_gbus0221910.005",
+        "clue_token": "CORPSE",
+        "label": 2
+    },
+    {
+        "cardword": "DOG",
+        "cardword_sense": "m_en_gbus0287810.007",
+        "clue_sense": "m_en_gbus0158200.008",
+        "clue_token": "CAT",
+        "label": 2
+    },
+    {
+        "cardword": "DWARF",
+        "cardword_sense": "m_en_gbus0305820.010",
+        "clue_sense": "m_en_gbus0412510.006",
+        "clue_token": "GIANT",
+        "label": 2
+    },
+    {
+        "cardword": "FACE",
+        "cardword_sense": "m_en_gbus0346070.106",
+        "clue_sense": "m_en_gbus0311770.014",
+        "clue_token": "EDGE",
+        "label": 2
+    },
+    {
+        "cardword": "RULER",
+        "cardword_sense": "m_en_gbus0888040.011",
+        "clue_sense": "m_en_gbus0627700.008",
+        "clue_token": "MEASURE",
+        "label": 2
+    },
+    {
+        "cardword": "BUCK",
+        "cardword_sense": "m_en_gbus0131450.006",
+        "clue_sense": "m_en_gbus0289060.005",
+        "clue_token": "DOLLAR",
+        "label": 2
+    },
+    {
+        "cardword": "FORK",
+        "cardword_sense": "m_en_gbus0381800.007",
+        "clue_sense": "m_en_gbus0981280.007",
+        "clue_token": "SPOON",
+        "label": 2
+    },
+    {
+        "cardword": "STRAW",
+        "cardword_sense": "m_en_gbus1001510.017",
+        "clue_sense": "m_en_gbus1080120.006",
+        "clue_token": "TUBE",
+        "label": 2
+    },
+    {
+        "cardword": "SCORPION",
+        "cardword_sense": "m_en_gbus0909580.005",
+        "clue_sense": "m_en_gbus0995640.007",
+        "clue_token": "STING",
+        "label": 2
+    },
+    {
+        "cardword": "SPELL",
+        "cardword_sense": "m_en_gbus0976660.005",
+        "clue_sense": "m_en_gbus0606750.005",
+        "clue_token": "MAGIC",
+        "label": 2
+    },
+    {
+        "cardword": "MARBLE",
+        "cardword_sense": "m_en_gbus0617050.013",
+        "clue_sense": "m_en_gbus0068850.008",
+        "clue_token": "BALL",
+        "label": 2
+    },
+    {
+        "cardword": "PRESS",
+        "cardword_sense": "m_en_gbus0812770.006",
+        "clue_sense": "m_en_gbus1064270.014",
+        "clue_token": "TOUCH",
+        "label": 2
+    },
+    {
+        "cardword": "WIND",
+        "cardword_sense": "m_en_gbus1160200.006",
+        "clue_sense": "m_en_gbus0105850.013",
+        "clue_token": "BLOW",
+        "label": 2
+    },
+    {
+        "cardword": "NURSE",
+        "cardword_sense": "m_en_gbus0706170.017",
+        "clue_sense": "m_en_gbus0942330.007",
+        "clue_token": "SICK",
+        "label": 2
+    },
+    {
+        "cardword": "TEACHER",
+        "cardword_sense": "m_en_gbus1034550.005",
+        "clue_sense": "m_en_gbus0312460.006",
+        "clue_token": "EDUCATION",
+        "label": 2
+    },
+    {
+        "cardword": "TABLET",
+        "cardword_sense": "m_en_gbus1025360.006",
+        "clue_sense": "m_en_gbus0202940.005",
+        "clue_token": "COMMANDMENT",
+        "label": 3
+    },
+    {
+        "cardword": "LASER",
+        "cardword_sense": "m_en_gbus0566390.005",
+        "clue_sense": "m_en_gbus0080530.021",
+        "clue_token": "BEAM",
+        "label": 2
+    },
+    {
+        "cardword": "SERVER",
+        "cardword_sense": "m_en_gbus0927470.015",
+        "clue_sense": "m_en_gbus0686400.016",
+        "clue_token": "NETWORK",
+        "label": 2
+    },
+    {
+        "cardword": "ROBIN",
+        "cardword_sense": "m_en_gbus0877580.017",
+        "clue_sense": "m_en_gbus0097360.006",
+        "clue_token": "BIRD",
+        "label": 2
+    },
+    {
+        "cardword": "PORT",
+        "cardword_sense": "m_en_gbus0801040.005",
+        "clue_sense": "m_en_gbus0710410.005",
+        "clue_token": "OCEAN",
+        "label": 2
+    },
+    {
+        "cardword": "QUEEN",
+        "cardword_sense": "m_en_gbus0836590.006",
+        "clue_sense": "m_en_gbus0973180.005",
+        "clue_token": "SPAIN",
+        "label": 2
+    },
+    {
+        "cardword": "AIR",
+        "cardword_sense": "m_en_gbus0017950.006",
+        "clue_sense": "m_en_gbus0403620.008",
+        "clue_token": "GAS",
+        "label": 2
+    },
+    {
+        "cardword": "SPIDER",
+        "cardword_sense": "m_en_gbus0977770.006",
+        "clue_sense": "m_en_gbus0132690.025",
+        "clue_token": "BUG",
+        "label": 2
+    },
+    {
+        "cardword": "TELESCOPE",
+        "cardword_sense": "m_en_gbus1037540.005",
+        "clue_sense": "m_en_gbus0917420.011",
+        "clue_token": "SEE",
+        "label": 2
+    },
+    {
+        "cardword": "HEAD",
+        "cardword_sense": "m_en_gbus0455700.267",
+        "clue_sense": "m_en_gbus0645230.008",
+        "clue_token": "MIND",
+        "label": 2
+    },
+    {
+        "cardword": "NUT",
+        "cardword_sense": "m_en_gbus0706490.007",
+        "clue_sense": "m_en_gbus0025040.008",
+        "clue_token": "ALMOND",
+        "label": 2
+    },
+    {
+        "cardword": "BUCK",
+        "cardword_sense": "m_en_gbus0131440.007",
+        "clue_sense": "m_en_gbus0479490.007",
+        "clue_token": "HORSE",
+        "label": 2
+    },
+    {
+        "cardword": "PLOT",
+        "cardword_sense": "m_en_gbus0790590.010",
+        "clue_sense": "m_en_gbus0665360.005",
+        "clue_token": "MOVIE",
+        "label": 2
+    },
+    {
+        "cardword": "ENGINE",
+        "cardword_sense": "m_en_gbus0324650.006",
+        "clue_sense": "m_en_gbus0298460.012",
+        "clue_token": "DRIVE",
+        "label": 2
+    },
+    {
+        "cardword": "DUCK",
+        "cardword_sense": "m_en_gbus0301720.007",
+        "clue_sense": "m_en_gbus0175150.006",
+        "clue_token": "CHICKEN",
+        "label": 2
+    },
+    {
+        "cardword": "SATURN",
+        "cardword_sense": "m_en_gbus0902060.009",
+        "clue_sense": "m_en_gbus0538670.009",
+        "clue_token": "JUPITER",
+        "label": 2
+    },
+    {
+        "cardword": "PANTS",
+        "cardword_sense": "m_en_gbus0745960.014",
+        "clue_sense": "m_en_gbus0573260.006",
+        "clue_token": "LEG",
+        "label": 2
+    },
+    {
+        "cardword": "SQUARE",
+        "cardword_sense": "m_en_gbus0984030.007",
+        "clue_sense": "m_en_gbus0932160.014",
+        "clue_token": "SHAPE",
+        "label": 2
+    },
+    {
+        "cardword": "SHARK",
+        "cardword_sense": "m_en_gbus0932520.006",
+        "clue_sense": "m_en_gbus0362260.005",
+        "clue_token": "FIN",
+        "label": 2
+    },
+    {
+        "cardword": "GRASS",
+        "cardword_sense": "m_en_gbus0428950.006",
+        "clue_sense": "m_en_gbus0101780.026",
+        "clue_token": "BLADE",
+        "label": 2
+    },
+    {
+        "cardword": "LIGHT",
+        "cardword_sense": "m_en_gbus0581170.007",
+        "clue_sense": "m_en_gbus0250710.006",
+        "clue_token": "DARKNESS",
+        "label": 2
+    },
+    {
+        "cardword": "FAIR",
+        "cardword_sense": "m_en_gbus0347620.006",
+        "clue_sense": "m_en_gbus0538980.006",
+        "clue_token": "JUSTICE",
+        "label": 2
+    },
+    {
+        "cardword": "WHIP",
+        "cardword_sense": "m_en_gbus1154000.007",
+        "clue_sense": "m_en_gbus0741210.006",
+        "clue_token": "PAIN",
+        "label": 2
+    },
+    {
+        "cardword": "CELL",
+        "cardword_sense": "m_en_gbus0162670.006",
+        "clue_sense": "m_en_gbus0816550.005",
+        "clue_token": "PRISON",
+        "label": 2
+    },
+    {
+        "cardword": "ROBOT",
+        "cardword_sense": "m_en_gbus0877780.008",
+        "clue_sense": "m_en_gbus0604690.005",
+        "clue_token": "MACHINE",
+        "label": 2
+    },
+    {
+        "cardword": "PISTOL",
+        "cardword_sense": "m_en_gbus0784650.006",
+        "clue_sense": "m_en_gbus0133640.006",
+        "clue_token": "BULLET",
+        "label": 2
+    },
+    {
+        "cardword": "ANGEL",
+        "cardword_sense": "m_en_gbus0032880.007",
+        "clue_sense": "m_en_gbus1161570.008",
+        "clue_token": "WING",
+        "label": 2
+    },
+    {
+        "cardword": "ROULETTE",
+        "cardword_sense": "m_en_gbus0884310.006",
+        "clue_sense": "m_en_gbus0875760.008",
+        "clue_token": "RISK",
+        "label": 2
+    },
+    {
+        "cardword": "THIEF",
+        "cardword_sense": "m_en_gbus1047130.008",
+        "clue_sense": "m_en_gbus0991350.012",
+        "clue_token": "STEAL",
+        "label": 2
+    },
+    {
+        "cardword": "MASS",
+        "cardword_sense": "m_en_gbus0621970.006",
+        "clue_sense": "m_en_gbus0182830.005",
+        "clue_token": "CHURCH",
+        "label": 2
+    },
+    {
+        "cardword": "CHECK",
+        "cardword_sense": "m_en_gbus0172020.049",
+        "clue_sense": "m_en_gbus0117600.024",
+        "clue_token": "BOUNCE",
+        "label": 2
+    },
+    {
+        "cardword": "BRUSH",
+        "cardword_sense": "m_en_gbus0130260.007",
+        "clue_sense": "m_en_gbus0448120.008",
+        "clue_token": "HAND",
+        "label": 2
+    },
+    {
+        "cardword": "COVER",
+        "cardword_sense": "m_en_gbus0227840.025",
+        "clue_sense": "m_en_gbus0756650.007",
+        "clue_token": "PAY",
+        "label": 2
+    },
+    {
+        "cardword": "WAR",
+        "cardword_sense": "m_en_gbus1140200.005",
+        "clue_sense": "m_en_gbus0111690.006",
+        "clue_token": "BOMB",
+        "label": 2
+    },
+    {
+        "cardword": "BOMB",
+        "cardword_sense": "m_en_gbus0111690.006",
+        "clue_sense": "m_en_gbus0148370.006",
+        "clue_token": "CANNON",
+        "label": 2
+    },
+    {
+        "cardword": "STREAM",
+        "cardword_sense": "m_en_gbus1001750.015",
+        "clue_sense": "Netflix",
+        "clue_token": "NETFLIX",
+        "label": 2
+    },
+    {
+        "cardword": "CASINO",
+        "cardword_sense": "m_en_gbus0157090.005",
+        "clue_sense": "m_en_gbus0400890.006",
+        "clue_token": "GAMBLE",
+        "label": 2
+    },
+    {
+        "cardword": "GREECE",
+        "cardword_sense": "m_en_gbus0431330.005",
+        "clue_sense": "m_en_gbus0964390.005",
+        "clue_token": "SOCRATES",
+        "label": 2
+    },
+    {
+        "cardword": "FISH",
+        "cardword_sense": "m_en_gbus0366150.022",
+        "clue_sense": "m_en_gbus1020960.013",
+        "clue_token": "SWIM",
+        "label": 2
+    },
+    {
+        "cardword": "FOREST",
+        "cardword_sense": "m_en_gbus0381160.015",
+        "clue_sense": "m_en_gbus0591130.035",
+        "clue_token": "LOG",
+        "label": 2
+    },
+    {
+        "cardword": "WATCH",
+        "cardword_sense": "m_en_gbus1142740.029",
+        "clue_sense": "m_en_gbus1170200.006",
+        "clue_token": "WRIST",
+        "label": 2
+    },
+    {
+        "cardword": "LEPRECHAUN",
+        "cardword_sense": "Leprechaun",
+        "clue_sense": "m_en_gbus0521630.007",
+        "clue_token": "IRELAND",
+        "label": 2
+    },
+    {
+        "cardword": "LITTER",
+        "cardword_sense": "m_en_gbus0587270.008",
+        "clue_sense": "m_en_gbus1070810.007",
+        "clue_token": "TRASH",
+        "label": 2
+    },
+    {
+        "cardword": "OPERA",
+        "cardword_sense": "m_en_gbus0722040.005",
+        "clue_sense": "m_en_gbus0947550.012",
+        "clue_token": "SING",
+        "label": 2
     }
 ]

@@ -208,5 +208,1286 @@
         "clue_sense": "m_en_gbus0518830.024",
         "clue_token": "INTRODUCE",
         "label": 0
+    },
+    {
+        "cardword": "DATE",
+        "cardword_sense": "m_en_gbus0251670.028",
+        "clue_sense": "Lizard",
+        "clue_token": "Lizard",
+        "label": 0
+    },
+    {
+        "cardword": "PAPER",
+        "cardword_sense": "m_en_gbus0746290.029",
+        "clue_sense": "Divergent_(film)",
+        "clue_token": "Divergent",
+        "label": 0
+    },
+    {
+        "cardword": "CHANGE",
+        "cardword_sense": "m_en_gbus0168600.046",
+        "clue_sense": "m_en_gbus0662030.009",
+        "clue_token": "MOSELLE",
+        "label": 0
+    },
+    {
+        "cardword": "NIGHT",
+        "cardword_sense": "m_en_gbus0691310.006",
+        "clue_sense": "Tom_Bosley",
+        "clue_token": "Tom",
+        "label": 0
+    },
+    {
+        "cardword": "OPERA",
+        "cardword_sense": "m_en_gbus0722040.010",
+        "clue_sense": "m_en_gbus0356310.005",
+        "clue_token": "FEMINIST",
+        "label": 0
+    },
+    {
+        "cardword": "SATELLITE",
+        "cardword_sense": "m_en_gbus0901560.013",
+        "clue_sense": "m_en_gbus0167340.008",
+        "clue_token": "CHALICE",
+        "label": 0
+    },
+    {
+        "cardword": "CARROT",
+        "cardword_sense": "m_en_gbus0155440.010",
+        "clue_sense": "m_en_gbus0758390.016",
+        "clue_token": "PEANUT",
+        "label": 0
+    },
+    {
+        "cardword": "HIMALAYAS",
+        "cardword_sense": "m_en_gbus0469200.008",
+        "clue_sense": "Toussaint_Louverture",
+        "clue_token": "Toussaint",
+        "label": 0
+    },
+    {
+        "cardword": "WASHINGTON",
+        "cardword_sense": "m_en_gbus0420670.004",
+        "clue_sense": "m_en_gbus0910700.029",
+        "clue_token": "SCRAPE",
+        "label": 0
+    },
+    {
+        "cardword": "DUCK",
+        "cardword_sense": "m_en_gbus0301730.020",
+        "clue_sense": "m_en_gbus0862420.019",
+        "clue_token": "REPEL",
+        "label": 0
+    },
+    {
+        "cardword": "EUROPE",
+        "cardword_sense": "m_en_gbus0336800.002",
+        "clue_sense": "Vairamuthu",
+        "clue_token": "Vairamuthu",
+        "label": 0
+    },
+    {
+        "cardword": "BUG",
+        "cardword_sense": "m_en_gbus0132690.038",
+        "clue_sense": "Steak",
+        "clue_token": "Steak",
+        "label": 0
+    },
+    {
+        "cardword": "EMBASSY",
+        "cardword_sense": "m_en_gbus0319600.010",
+        "clue_sense": "Dick_Cheney",
+        "clue_token": "Dick",
+        "label": 1
+    },
+    {
+        "cardword": "PIPE",
+        "cardword_sense": "m_en_gbus0783370.018",
+        "clue_sense": "Condoleezza_Rice",
+        "clue_token": "Condoleezza",
+        "label": 0
+    },
+    {
+        "cardword": "HOOK",
+        "cardword_sense": "m_en_gbus0477660.041",
+        "clue_sense": "m_en_gbus1205711.004",
+        "clue_token": "INLAID",
+        "label": 0
+    },
+    {
+        "cardword": "FILM",
+        "cardword_sense": "m_en_gbus0361650.018",
+        "clue_sense": "m_en_gbus0125750.005",
+        "clue_token": "BRIGANTINE",
+        "label": 0
+    },
+    {
+        "cardword": "CARROT",
+        "cardword_sense": "m_en_gbus0155440.013",
+        "clue_sense": "m_en_gbus0731980.012",
+        "clue_token": "OUTLET",
+        "label": 0
+    },
+    {
+        "cardword": "TRUNK",
+        "cardword_sense": "m_en_gbus1078900.010",
+        "clue_sense": "Armaan_Malik",
+        "clue_token": "Armaan",
+        "label": 0
+    },
+    {
+        "cardword": "PIN",
+        "cardword_sense": "m_en_gbus0768830.005",
+        "clue_sense": "m_en_gbus0413230.010",
+        "clue_token": "GIDEON",
+        "label": 0
+    },
+    {
+        "cardword": "MARCH",
+        "cardword_sense": "m_en_gbus0472370.006",
+        "clue_sense": "m_en_gbus0040610.007",
+        "clue_token": "APOLLINAIRE",
+        "label": 1
+    },
+    {
+        "cardword": "SUB",
+        "cardword_sense": "m_en_gbus1006120.033",
+        "clue_sense": "m_en_gbus0839070.010",
+        "clue_token": "QUOTATION",
+        "label": 0
+    },
+    {
+        "cardword": "POUND",
+        "cardword_sense": "m_en_gbus0805510.012",
+        "clue_sense": "The_Licked_Hand",
+        "clue_token": "Licked",
+        "label": 0
+    },
+    {
+        "cardword": "EMBASSY",
+        "cardword_sense": "m_en_gbus0319600.006",
+        "clue_sense": "m_en_gbus0623590.010",
+        "clue_token": "MATERIALISM",
+        "label": 0
+    },
+    {
+        "cardword": "CAP",
+        "cardword_sense": "m_en_gbus0203900.005",
+        "clue_sense": "Riverdale_(2017_TV_series)",
+        "clue_token": "Riverdale",
+        "label": 0
+    },
+    {
+        "cardword": "SCHOOL",
+        "cardword_sense": "m_en_gbus0907270.010",
+        "clue_sense": "Madeleine_Madden",
+        "clue_token": "Madeleine",
+        "label": 0
+    },
+    {
+        "cardword": "BOMB",
+        "cardword_sense": "m_en_gbus0111690.023",
+        "clue_sense": "m_en_gbus0384250.003",
+        "clue_token": "4D",
+        "label": 0
+    },
+    {
+        "cardword": "PUMPKIN",
+        "cardword_sense": "m_en_gbus0829370.006",
+        "clue_sense": "Shoe",
+        "clue_token": "Shoe",
+        "label": 0
+    },
+    {
+        "cardword": "PAPER",
+        "cardword_sense": "m_en_gbus0746290.015",
+        "clue_sense": "m_en_gbus0616100.005",
+        "clue_token": "MANZANITA",
+        "label": 0
+    },
+    {
+        "cardword": "TIE",
+        "cardword_sense": "m_en_gbus1053090.025",
+        "clue_sense": "m_en_gbus1037030.005",
+        "clue_token": "TELEGRAPHY",
+        "label": 0
+    },
+    {
+        "cardword": "THUMB",
+        "cardword_sense": "m_en_gbus1051230.025",
+        "clue_sense": "m_en_gbus0704810.013",
+        "clue_token": "NUDGE",
+        "label": 0
+    },
+    {
+        "cardword": "CHECK",
+        "cardword_sense": "m_en_gbus0172020.025",
+        "clue_sense": "m_en_gbus0863720.005",
+        "clue_token": "REPUGNANCE",
+        "label": 0
+    },
+    {
+        "cardword": "ALIEN",
+        "cardword_sense": "m_en_gbus0022530.016",
+        "clue_sense": "Eric_Bischoff",
+        "clue_token": "Eric",
+        "label": 0
+    },
+    {
+        "cardword": "SPACE",
+        "cardword_sense": "m_en_gbus0972460.021",
+        "clue_sense": "m_en_gbus0540390.005",
+        "clue_token": "KALEIDOSCOPIC",
+        "label": 0
+    },
+    {
+        "cardword": "DEATH",
+        "cardword_sense": "m_en_gbus0254630.012",
+        "clue_sense": "m_en_gbus0339680.004",
+        "clue_token": "EXCISION",
+        "label": 0
+    },
+    {
+        "cardword": "DRILL",
+        "cardword_sense": "m_en_gbus0298120.010",
+        "clue_sense": "m_en_gbus0834280.030",
+        "clue_token": "QUAD",
+        "label": 0
+    },
+    {
+        "cardword": "ATLANTIS",
+        "cardword_sense": "m_en_gbus0055400.005",
+        "clue_sense": "Khartoum",
+        "clue_token": "Khartoum",
+        "label": 1
+    },
+    {
+        "cardword": "PAPER",
+        "cardword_sense": "m_en_gbus0746290.039",
+        "clue_sense": "m_en_gbus0558250.021",
+        "clue_token": "KYRGYZ",
+        "label": 0
+    },
+    {
+        "cardword": "SNOWMAN",
+        "cardword_sense": "m_en_gbus0962280.005",
+        "clue_sense": "m_en_gbus0260320.017",
+        "clue_token": "DEFY",
+        "label": 0
+    },
+    {
+        "cardword": "MERCURY",
+        "cardword_sense": "m_en_gbus0633820.010",
+        "clue_sense": "m_en_gbus0286270.004",
+        "clue_token": "DJERBA",
+        "label": 0
+    },
+    {
+        "cardword": "SHIP",
+        "cardword_sense": "m_en_gbus0936160.017",
+        "clue_sense": "Free_(band)",
+        "clue_token": "Free",
+        "label": 0
+    },
+    {
+        "cardword": "VET",
+        "cardword_sense": "m_en_gbus1126880.017",
+        "clue_sense": "Lindsay_Lohan",
+        "clue_token": "Lindsay",
+        "label": 0
+    },
+    {
+        "cardword": "APPLE",
+        "cardword_sense": "m_en_gbus0041790.013",
+        "clue_sense": "The_Father_(2020_film)",
+        "clue_token": "Father",
+        "label": 0
+    },
+    {
+        "cardword": "SHADOW",
+        "cardword_sense": "m_en_gbus0930820.014",
+        "clue_sense": "m_en_gbus0420870.006",
+        "clue_token": "GOIÂNIA",
+        "label": 0
+    },
+    {
+        "cardword": "BUFFALO",
+        "cardword_sense": "m_en_gbus0132400.005",
+        "clue_sense": "m_en_gbus0629500.005",
+        "clue_token": "MEDITATE",
+        "label": 0
+    },
+    {
+        "cardword": "ENGLAND",
+        "cardword_sense": "m_en_gbus0324770.005",
+        "clue_sense": "m_en_gbus0264630.005",
+        "clue_token": "DENOUNCE",
+        "label": 0
+    },
+    {
+        "cardword": "AUSTRALIA",
+        "cardword_sense": "m_en_gbus0058530.007",
+        "clue_sense": "m_en_gbus0611100.012",
+        "clue_token": "MALFUNCTION",
+        "label": 0
+    },
+    {
+        "cardword": "SATURN",
+        "cardword_sense": "m_en_gbus0902060.006",
+        "clue_sense": "m_en_gbus0447750.008",
+        "clue_token": "HAMMERHEAD",
+        "label": 0
+    },
+    {
+        "cardword": "IRON",
+        "cardword_sense": "m_en_gbus0522050.010",
+        "clue_sense": "m_en_gbus0109340.005",
+        "clue_token": "BODLEIAN",
+        "label": 0
+    },
+    {
+        "cardword": "BEAR",
+        "cardword_sense": "m_en_gbus0080810.017",
+        "clue_sense": "m_en_gbus0269610.005",
+        "clue_token": "DETOUR",
+        "label": 0
+    },
+    {
+        "cardword": "MOUSE",
+        "cardword_sense": "m_en_gbus0664820.043",
+        "clue_sense": "Dhruv_Vikram",
+        "clue_token": "Dhruv",
+        "label": 0
+    },
+    {
+        "cardword": "COVER",
+        "cardword_sense": "m_en_gbus0227840.051",
+        "clue_sense": "Shiv_Panditt",
+        "clue_token": "Panditt",
+        "label": 0
+    },
+    {
+        "cardword": "LOCK",
+        "cardword_sense": "m_en_gbus0590260.046",
+        "clue_sense": "m_en_gbus0792690.006",
+        "clue_token": "POCKET",
+        "label": 0
+    },
+    {
+        "cardword": "STADIUM",
+        "cardword_sense": "m_en_gbus0985970.017",
+        "clue_sense": "Aubrey_O'Day",
+        "clue_token": "Aubrey",
+        "label": 0
+    },
+    {
+        "cardword": "GROUND",
+        "cardword_sense": "m_en_gbus0435410.051",
+        "clue_sense": "m_en_gbus1183504.005",
+        "clue_token": "DRIVERLESS",
+        "label": 0
+    },
+    {
+        "cardword": "ROOT",
+        "cardword_sense": "m_en_gbus0881680.022",
+        "clue_sense": "m_en_gbus0900810.009",
+        "clue_token": "SARKY",
+        "label": 0
+    },
+    {
+        "cardword": "PRESS",
+        "cardword_sense": "m_en_gbus0812770.021",
+        "clue_sense": "m_en_gbus0730430.007",
+        "clue_token": "OTTOMAN",
+        "label": 0
+    },
+    {
+        "cardword": "CIRCLE",
+        "cardword_sense": "m_en_gbus0184670.029",
+        "clue_sense": "m_en_gbus0418050.012",
+        "clue_token": "GLOW",
+        "label": 0
+    },
+    {
+        "cardword": "NOTE",
+        "cardword_sense": "m_en_gbus0702390.013",
+        "clue_sense": "m_en_gbus0958500.033",
+        "clue_token": "SMELL",
+        "label": 0
+    },
+    {
+        "cardword": "PAN",
+        "cardword_sense": "m_en_gbus0744150.015",
+        "clue_sense": "Triton_(mythology)",
+        "clue_token": "Triton",
+        "label": 0
+    },
+    {
+        "cardword": "BUGLE",
+        "cardword_sense": "m_en_gbus0132850.005",
+        "clue_sense": "Carmen_Sandiego_(TV_series)",
+        "clue_token": "Carmen",
+        "label": 0
+    },
+    {
+        "cardword": "KNIGHT",
+        "cardword_sense": "m_en_gbus0553240.015",
+        "clue_sense": "m_en_gbus1129260.006",
+        "clue_token": "VIETNAM",
+        "label": 0
+    },
+    {
+        "cardword": "NURSE",
+        "cardword_sense": "m_en_gbus0706170.040",
+        "clue_sense": "Algee_Smith",
+        "clue_token": "Algee",
+        "label": 0
+    },
+    {
+        "cardword": "TOOTH",
+        "cardword_sense": "m_en_gbus1061220.023",
+        "clue_sense": "m_en_gbus0327280.027",
+        "clue_token": "ENTRY",
+        "label": 0
+    },
+    {
+        "cardword": "HORN",
+        "cardword_sense": "m_en_gbus0478880.012",
+        "clue_sense": "m_en_gbus0087990.010",
+        "clue_token": "BERBER",
+        "label": 0
+    },
+    {
+        "cardword": "IRON",
+        "cardword_sense": "m_en_gbus0522050.030",
+        "clue_sense": "m_en_gbus0431950.005",
+        "clue_token": "GREENFLY",
+        "label": 0
+    },
+    {
+        "cardword": "ROCK",
+        "cardword_sense": "m_en_gbus0878040.019",
+        "clue_sense": "m_en_gbus0153720.013",
+        "clue_token": "CARILLON",
+        "label": 0
+    },
+    {
+        "cardword": "PIN",
+        "cardword_sense": "m_en_gbus0781630.051",
+        "clue_sense": "m_en_gbus0260960.006",
+        "clue_token": "DEIGHTON",
+        "label": 0
+    },
+    {
+        "cardword": "SPELL",
+        "cardword_sense": "m_en_gbus0976660.005",
+        "clue_sense": "m_en_gbus0686740.005",
+        "clue_token": "NEUROCOGNITIVE",
+        "label": 0
+    },
+    {
+        "cardword": "LITTER",
+        "cardword_sense": "m_en_gbus0587270.040",
+        "clue_sense": "Horticulture",
+        "clue_token": "Horticulture",
+        "label": 0
+    },
+    {
+        "cardword": "OIL",
+        "cardword_sense": "m_en_gbus0714660.006",
+        "clue_sense": "m_en_gbus0176180.008",
+        "clue_token": "CHILE",
+        "label": 0
+    },
+    {
+        "cardword": "TICK",
+        "cardword_sense": "m_en_gbus1052420.048",
+        "clue_sense": "m_en_gbus1039380.008",
+        "clue_token": "TENFOLD",
+        "label": 0
+    },
+    {
+        "cardword": "SCHOOL",
+        "cardword_sense": "m_en_gbus0907270.016",
+        "clue_sense": "m_en_gbus0969210.003",
+        "clue_token": "SORBUS",
+        "label": 0
+    },
+    {
+        "cardword": "LONDON",
+        "cardword_sense": "Lauren_London",
+        "clue_sense": "m_en_gbus0244060.042",
+        "clue_token": "CUTOFF",
+        "label": 0
+    },
+    {
+        "cardword": "LIMOUSINE",
+        "cardword_sense": "m_en_gbus0583380.008",
+        "clue_sense": "m_en_gbus0798590.004",
+        "clue_token": "PONGA",
+        "label": 0
+    },
+    {
+        "cardword": "KETCHUP",
+        "cardword_sense": "Ketchup",
+        "clue_sense": "m_en_gbus0850570.015",
+        "clue_token": "RECEIVE",
+        "label": 0
+    },
+    {
+        "cardword": "AUSTRALIA",
+        "cardword_sense": "Australia_(2008_film)",
+        "clue_sense": "m_en_gbus1026390.024",
+        "clue_token": "TAG",
+        "label": 0
+    },
+    {
+        "cardword": "ROME",
+        "cardword_sense": "m_en_gbus0880840.019",
+        "clue_sense": "Nathaniel_Arcand",
+        "clue_token": "NATHANIEL",
+        "label": 0
+    },
+    {
+        "cardword": "LIGHT",
+        "cardword_sense": "m_en_gbus0581180.031",
+        "clue_sense": "m_en_gbus0592530.009",
+        "clue_token": "LONESOME",
+        "label": 0
+    },
+    {
+        "cardword": "MUG",
+        "cardword_sense": "m_en_gbus0667650.013",
+        "clue_sense": "m_en_gbus1113290.023",
+        "clue_token": "UNZIP",
+        "label": 0
+    },
+    {
+        "cardword": "DWARF",
+        "cardword_sense": "m_en_gbus0305820.024",
+        "clue_sense": "m_en_gbus0098970.021",
+        "clue_token": "BITE",
+        "label": 0
+    },
+    {
+        "cardword": "LINK",
+        "cardword_sense": "m_en_gbus0584690.005",
+        "clue_sense": "m_en_gbus0124460.004",
+        "clue_token": "BRENNAN",
+        "label": 0
+    },
+    {
+        "cardword": "HOSPITAL",
+        "cardword_sense": "m_en_gbus0480410.012",
+        "clue_sense": "m_en_gbus0119570.006",
+        "clue_token": "BOYFRIEND",
+        "label": 0
+    },
+    {
+        "cardword": "PASTE",
+        "cardword_sense": "m_en_gbus0753550.005",
+        "clue_sense": "m_en_gbus0255360.003",
+        "clue_token": "DEBITAGE",
+        "label": 0
+    },
+    {
+        "cardword": "STATE",
+        "cardword_sense": "m_en_gbus0989430.047",
+        "clue_sense": "m_en_gbus0510050.005",
+        "clue_token": "INJUNCTION",
+        "label": 0
+    },
+    {
+        "cardword": "ROW",
+        "cardword_sense": "m_en_gbus0885140.013",
+        "clue_sense": "m_en_gbus0313890.019",
+        "clue_token": "EGGSHELL",
+        "label": 0
+    },
+    {
+        "cardword": "PYRAMID",
+        "cardword_sense": "m_en_gbus0832780.014",
+        "clue_sense": "m_en_gbus0656590.007",
+        "clue_token": "MONOGAMOUS",
+        "label": 0
+    },
+    {
+        "cardword": "TABLE",
+        "cardword_sense": "m_en_gbus1025140.026",
+        "clue_sense": "m_en_gbus0217920.038",
+        "clue_token": "COORDINATE",
+        "label": 0
+    },
+    {
+        "cardword": "HIMALAYAS",
+        "cardword_sense": "m_en_gbus0469200.008",
+        "clue_sense": "Anorexia_nervosa",
+        "clue_token": "ANOREXIA",
+        "label": 0
+    },
+    {
+        "cardword": "MOSCOW",
+        "cardword_sense": "David_Moscow",
+        "clue_sense": "London,_Ontario",
+        "clue_token": "LONDON,",
+        "label": 0
+    },
+    {
+        "cardword": "PILOT",
+        "cardword_sense": "m_en_gbus0781310.009",
+        "clue_sense": "m_en_gbus0115700.012",
+        "clue_token": "BOROUGH",
+        "label": 0
+    },
+    {
+        "cardword": "WASHER",
+        "cardword_sense": "m_en_gbus1142050.014",
+        "clue_sense": "m_en_gbus0694920.003",
+        "clue_token": "NOK",
+        "label": 0
+    },
+    {
+        "cardword": "SKYSCRAPER",
+        "cardword_sense": "Skyscraper",
+        "clue_sense": "Vivarium_(film)",
+        "clue_token": "VIVARIUM",
+        "label": 0
+    },
+    {
+        "cardword": "DIAMOND",
+        "cardword_sense": "m_en_gbus0272540.006",
+        "clue_sense": "m_en_gbus0357560.021",
+        "clue_token": "FERTILE",
+        "label": 0
+    },
+    {
+        "cardword": "ALIEN",
+        "cardword_sense": "m_en_gbus0022530.018",
+        "clue_sense": "m_en_gbus0770510.008",
+        "clue_token": "PETIPA",
+        "label": 0
+    },
+    {
+        "cardword": "POLE",
+        "cardword_sense": "m_en_gbus0794790.010",
+        "clue_sense": "m_en_gbus0453400.006",
+        "clue_token": "HATCH",
+        "label": 0
+    },
+    {
+        "cardword": "SPIKE",
+        "cardword_sense": "m_en_gbus0978080.033",
+        "clue_sense": "m_en_gbus0279770.060",
+        "clue_token": "DISCHARGE",
+        "label": 0
+    },
+    {
+        "cardword": "APPLE",
+        "cardword_sense": "Apple",
+        "clue_sense": "Jake_Busey",
+        "clue_token": "JAKE",
+        "label": 0
+    },
+    {
+        "cardword": "THUMB",
+        "cardword_sense": "m_en_gbus1051230.008",
+        "clue_sense": "m_en_gbus0581040.026",
+        "clue_token": "LIFT",
+        "label": 0
+    },
+    {
+        "cardword": "BED",
+        "cardword_sense": "m_en_gbus0082220.009",
+        "clue_sense": "m_en_gbus0909160.015",
+        "clue_token": "SCOOP",
+        "label": 0
+    },
+    {
+        "cardword": "FIGURE",
+        "cardword_sense": "m_en_gbus0360880.021",
+        "clue_sense": "m_en_gbus0247260.003",
+        "clue_token": "DADD",
+        "label": 0
+    },
+    {
+        "cardword": "BERMUDA",
+        "cardword_sense": "Bermuda_Triangle",
+        "clue_sense": "m_en_gbus0258160.011",
+        "clue_token": "DEDICATION",
+        "label": 0
+    },
+    {
+        "cardword": "TABLET",
+        "cardword_sense": "m_en_gbus1025360.011",
+        "clue_sense": "Apostle_(film)",
+        "clue_token": "APOSTLE",
+        "label": 0
+    },
+    {
+        "cardword": "BEAT",
+        "cardword_sense": "m_en_gbus0081200.017",
+        "clue_sense": "Nyle_DiMarco",
+        "clue_token": "NYLE",
+        "label": 0
+    },
+    {
+        "cardword": "WIND",
+        "cardword_sense": "m_en_gbus1160210.024",
+        "clue_sense": "m_en_gbus0610610.010",
+        "clue_token": "MALAYALI",
+        "label": 0
+    },
+    {
+        "cardword": "BARK",
+        "cardword_sense": "m_en_gbus0073810.005",
+        "clue_sense": "Angela_White",
+        "clue_token": "ANGELA",
+        "label": 0
+    },
+    {
+        "cardword": "WATER",
+        "cardword_sense": "m_en_gbus1142950.031",
+        "clue_sense": "m_en_gbus0103540.022",
+        "clue_token": "BLIND",
+        "label": 0
+    },
+    {
+        "cardword": "WEB",
+        "cardword_sense": "m_en_gbus1146800.006",
+        "clue_sense": "m_en_gbus0058970.013",
+        "clue_token": "AUSTRONESIAN",
+        "label": 0
+    },
+    {
+        "cardword": "CODE",
+        "cardword_sense": "m_en_gbus0196310.031",
+        "clue_sense": "m_en_gbus0893830.004",
+        "clue_token": "SAINT",
+        "label": 0
+    },
+    {
+        "cardword": "FILM",
+        "cardword_sense": "m_en_gbus0361650.015",
+        "clue_sense": "m_en_gbus0036090.007",
+        "clue_token": "ANTAGONIZE",
+        "label": 0
+    },
+    {
+        "cardword": "HORSE",
+        "cardword_sense": "m_en_gbus0479490.012",
+        "clue_sense": "m_en_gbus1051060.011",
+        "clue_token": "THRUSTER",
+        "label": 0
+    },
+    {
+        "cardword": "PIPE",
+        "cardword_sense": "m_en_gbus0783370.023",
+        "clue_sense": "m_en_gbus0395380.047",
+        "clue_token": "FUMBLE",
+        "label": 0
+    },
+    {
+        "cardword": "JET",
+        "cardword_sense": "m_en_gbus0531470.012",
+        "clue_sense": "m_en_gbus0987480.034",
+        "clue_token": "STANDARD",
+        "label": 0
+    },
+    {
+        "cardword": "DROP",
+        "cardword_sense": "m_en_gbus0299010.020",
+        "clue_sense": "m_en_gbus0807690.007",
+        "clue_token": "PRANA",
+        "label": 0
+    },
+    {
+        "cardword": "NOVEL",
+        "cardword_sense": "m_en_gbus0703170.005",
+        "clue_sense": "m_en_gbus0118630.017",
+        "clue_token": "BOWL",
+        "label": 0
+    },
+    {
+        "cardword": "COOK",
+        "cardword_sense": "Dalvin_Cook",
+        "clue_sense": "Dana_Carvey",
+        "clue_token": "DANA",
+        "label": 1
+    },
+    {
+        "cardword": "MICROSCOPE",
+        "cardword_sense": "Microscope",
+        "clue_sense": "m_en_gbus0705300.009",
+        "clue_token": "NUMB",
+        "label": 0
+    },
+    {
+        "cardword": "RAY",
+        "cardword_sense": "Ray_Park",
+        "clue_sense": "The_Tunnel_(TV_series)",
+        "clue_token": "TUNNEL",
+        "label": 1
+    },
+    {
+        "cardword": "YARD",
+        "cardword_sense": "m_en_gbus1173710.024",
+        "clue_sense": "m_en_gbus0418000.013",
+        "clue_token": "glovebox",
+        "label": 0
+    },
+    {
+        "cardword": "HORSESHOE",
+        "cardword_sense": "m_en_gbus0480000.015",
+        "clue_sense": "m_en_gbus0546020.024",
+        "clue_token": "KEY",
+        "label": 0
+    },
+    {
+        "cardword": "CONTRACT",
+        "cardword_sense": "m_en_gbus0215190.012",
+        "clue_sense": "Sigourney_Weaver",
+        "clue_token": "SIGOURNEY",
+        "label": 0
+    },
+    {
+        "cardword": "ROULETTE",
+        "cardword_sense": "m_en_gbus0884310.014",
+        "clue_sense": "m_en_gbus0858640.005",
+        "clue_token": "REINFORCE",
+        "label": 0
+    },
+    {
+        "cardword": "ROME",
+        "cardword_sense": "m_en_gbus0880880.002",
+        "clue_sense": "m_en_gbus1187498.004",
+        "clue_token": "WALLED",
+        "label": 0
+    },
+    {
+        "cardword": "DRESS",
+        "cardword_sense": "m_en_gbus0297680.037",
+        "clue_sense": "Sylvie_(Marvel_Cinematic_Universe)",
+        "clue_token": "SYLVIE",
+        "label": 0
+    },
+    {
+        "cardword": "ENGINE",
+        "cardword_sense": "m_en_gbus0324650.009",
+        "clue_sense": "m_en_gbus0802090.012",
+        "clue_token": "POSE",
+        "label": 0
+    },
+    {
+        "cardword": "HONEY",
+        "cardword_sense": "Honey_Irani",
+        "clue_sense": "m_en_gbus0003010.005",
+        "clue_token": "ABSENTEEISM",
+        "label": 0
+    },
+    {
+        "cardword": "COMPOUND",
+        "cardword_sense": "m_en_gbus0206810.038",
+        "clue_sense": "Tex_Ritter",
+        "clue_token": "TEX",
+        "label": 0
+    },
+    {
+        "cardword": "DEGREE",
+        "cardword_sense": "m_en_gbus0260580.018",
+        "clue_sense": "Jeremy_Renner",
+        "clue_token": "JEREMY",
+        "label": 0
+    },
+    {
+        "cardword": "PIN",
+        "cardword_sense": "m_en_gbus0781630.015",
+        "clue_sense": "m_en_gbus0872870.023",
+        "clue_token": "RIDGE",
+        "label": 0
+    },
+    {
+        "cardword": "TEACHER",
+        "cardword_sense": "Teacher",
+        "clue_sense": "Matthew_Hoppe",
+        "clue_token": "MATTHEW",
+        "label": 0
+    },
+    {
+        "cardword": "AIR",
+        "cardword_sense": "m_en_gbus0017950.012",
+        "clue_sense": "m_en_gbus0750350.007",
+        "clue_token": "PARLIAMENTARIAN",
+        "label": 0
+    },
+    {
+        "cardword": "MERCURY",
+        "cardword_sense": "m_en_gbus0633820.013",
+        "clue_sense": "m_en_gbus1190020.004",
+        "clue_token": "DISPLAYABLE",
+        "label": 0
+    },
+    {
+        "cardword": "GAS",
+        "cardword_sense": "m_en_gbus0403620.016",
+        "clue_sense": "m_en_gbus0176440.006",
+        "clue_token": "CHILLICOTHE",
+        "label": 0
+    },
+    {
+        "cardword": "MISSILE",
+        "cardword_sense": "m_en_gbus0649710.005",
+        "clue_sense": "m_en_gbus0301360.008",
+        "clue_token": "DU",
+        "label": 0
+    },
+    {
+        "cardword": "CHECK",
+        "cardword_sense": "m_en_gbus0172020.123",
+        "clue_sense": "m_en_gbus1087210.008",
+        "clue_token": "TYRANNY",
+        "label": 0
+    },
+    {
+        "cardword": "NAIL",
+        "cardword_sense": "m_en_gbus0676210.034",
+        "clue_sense": "m_en_gbus0185270.018",
+        "clue_token": "CIRCUS",
+        "label": 0
+    },
+    {
+        "cardword": "BEAR",
+        "cardword_sense": "Bear",
+        "clue_sense": "m_en_gbus0355490.010",
+        "clue_token": "FEINT",
+        "label": 0
+    },
+    {
+        "cardword": "PARACHUTE",
+        "cardword_sense": "m_en_gbus0747340.006",
+        "clue_sense": "m_en_gbus0489150.004",
+        "clue_token": "HYPERCAPNIA",
+        "label": 0
+    },
+    {
+        "cardword": "LAB",
+        "cardword_sense": "m_en_gbus0558450.005",
+        "clue_sense": "m_en_gbus0999810.012",
+        "clue_token": "STOUSH",
+        "label": 0
+    },
+    {
+        "cardword": "SQUARE",
+        "cardword_sense": "m_en_gbus0984030.057",
+        "clue_sense": "m_en_gbus0661830.006",
+        "clue_token": "MORTON",
+        "label": 0
+    },
+    {
+        "cardword": "DOCTOR",
+        "cardword_sense": "m_en_gbus0287210.032",
+        "clue_sense": "m_en_gbus1040330.006",
+        "clue_token": "TEPHRA",
+        "label": 0
+    },
+    {
+        "cardword": "CARROT",
+        "cardword_sense": "Carrot_Top",
+        "clue_sense": "m_en_gbus0091880.003",
+        "clue_token": "BIBLIOTHERAPY",
+        "label": 0
+    },
+    {
+        "cardword": "JUPITER",
+        "cardword_sense": "m_en_gbus0538670.009",
+        "clue_sense": "m_en_gbus1145760.005",
+        "clue_token": "WAYWARD",
+        "label": 0
+    },
+    {
+        "cardword": "NEW YORK",
+        "cardword_sense": "New_York_(2009_film)",
+        "clue_sense": "m_en_gbus0949490.019",
+        "clue_token": "SITTING",
+        "label": 0
+    },
+    {
+        "cardword": "AUSTRALIA",
+        "cardword_sense": "Australia_(continent)",
+        "clue_sense": "m_en_gbus1141250.008",
+        "clue_token": "WARNING",
+        "label": 0
+    },
+    {
+        "cardword": "SOUL",
+        "cardword_sense": "m_en_gbus0969980.014",
+        "clue_sense": "Casablanca_(film)",
+        "clue_token": "CASABLANCA",
+        "label": 0
+    },
+    {
+        "cardword": "TELESCOPE",
+        "cardword_sense": "m_en_gbus1037540.018",
+        "clue_sense": "m_en_gbus0367660.013",
+        "clue_token": "FIXED",
+        "label": 0
+    },
+    {
+        "cardword": "TURKEY",
+        "cardword_sense": "Turkey",
+        "clue_sense": "m_en_gbus0493170.005",
+        "clue_token": "ID",
+        "label": 0
+    },
+    {
+        "cardword": "BOOT",
+        "cardword_sense": "m_en_gbus0114300.037",
+        "clue_sense": "m_en_gbus1006770.009",
+        "clue_token": "SUBDUED",
+        "label": 0
+    },
+    {
+        "cardword": "SCREEN",
+        "cardword_sense": "m_en_gbus0911080.085",
+        "clue_sense": "m_en_gbus1017810.003",
+        "clue_token": "SURYA",
+        "label": 0
+    },
+    {
+        "cardword": "SCUBA DIVER",
+        "cardword_sense": "m_en_gbus1189026.002",
+        "clue_sense": "m_en_gbus0212620.010",
+        "clue_token": "CONSIGNMENT",
+        "label": 0
+    },
+    {
+        "cardword": "DRAGON",
+        "cardword_sense": "Dragon_Ball_(TV_series)",
+        "clue_sense": "Colonoscopy",
+        "clue_token": "COLONOSCOPY",
+        "label": 0
+    },
+    {
+        "cardword": "SNOWMAN",
+        "cardword_sense": "The_Snowman",
+        "clue_sense": "m_en_gbus0280260.008",
+        "clue_token": "DISCORDANT",
+        "label": 0
+    },
+    {
+        "cardword": "ICE",
+        "cardword_sense": "Ice",
+        "clue_sense": "m_en_gbus1000530.010",
+        "clue_token": "STRAINED",
+        "label": 0
+    },
+    {
+        "cardword": "STREAM",
+        "cardword_sense": "m_en_gbus1119110.002",
+        "clue_sense": "m_en_gbus0007700.006",
+        "clue_token": "ACTINIC",
+        "label": 0
+    },
+    {
+        "cardword": "CIRCLE",
+        "cardword_sense": "m_en_gbus0184670.015",
+        "clue_sense": "m_en_gbus1061980.012",
+        "clue_token": "toplight",
+        "label": 0
+    },
+    {
+        "cardword": "PASTE",
+        "cardword_sense": "m_en_gbus0753550.020",
+        "clue_sense": "m_en_gbus0671570.014",
+        "clue_token": "MUSCATEL",
+        "label": 0
+    },
+    {
+        "cardword": "BATTERY",
+        "cardword_sense": "m_en_gbus0078580.010",
+        "clue_sense": "m_en_gbus0071370.011",
+        "clue_token": "BANISH",
+        "label": 0
+    },
+    {
+        "cardword": "DIAMOND",
+        "cardword_sense": "m_en_gbus0272540.017",
+        "clue_sense": "Nancy_Kulp",
+        "clue_token": "NANCY",
+        "label": 0
+    },
+    {
+        "cardword": "CHAIR",
+        "cardword_sense": "m_en_gbus0167010.006",
+        "clue_sense": "m_en_gbus0299640.012",
+        "clue_token": "DROWSE",
+        "label": 0
+    },
+    {
+        "cardword": "EAGLE",
+        "cardword_sense": "The_Eagle_(2011_film)",
+        "clue_sense": "Cheryl_Hines",
+        "clue_token": "CHERYL",
+        "label": 0
+    },
+    {
+        "cardword": "AGENT",
+        "cardword_sense": "m_en_gbus0015800.011",
+        "clue_sense": "Barry_Levinson",
+        "clue_token": "BARRY",
+        "label": 0
+    },
+    {
+        "cardword": "RACKET",
+        "cardword_sense": "m_en_gbus0840170.013",
+        "clue_sense": "m_en_gbus1185821.004",
+        "clue_token": "PAPILLARY",
+        "label": 0
+    },
+    {
+        "cardword": "MATCH",
+        "cardword_sense": "m_en_gbus0623280.021",
+        "clue_sense": "Joe_Bell_(film)",
+        "clue_token": "JOE",
+        "label": 0
+    },
+    {
+        "cardword": "DISEASE",
+        "cardword_sense": "Ménière's_disease",
+        "clue_sense": "James_Woods",
+        "clue_token": "JAMES",
+        "label": 0
+    },
+    {
+        "cardword": "WALL",
+        "cardword_sense": "m_en_gbus1138760.038",
+        "clue_sense": "m_en_gbus1094400.005",
+        "clue_token": "UNCOOKED",
+        "label": 0
+    },
+    {
+        "cardword": "BUG",
+        "cardword_sense": "m_en_gbus0132690.028",
+        "clue_sense": "m_en_gbus0420560.006",
+        "clue_token": "GODWIT",
+        "label": 0
+    },
+    {
+        "cardword": "GLASS",
+        "cardword_sense": "m_en_gbus0416030.024",
+        "clue_sense": "m_en_gbus0817780.010",
+        "clue_token": "PROBLEMATIC",
+        "label": 0
+    },
+    {
+        "cardword": "COLD",
+        "cardword_sense": "m_en_gbus0198460.025",
+        "clue_sense": "m_en_gbus0391400.006",
+        "clue_token": "FROGGING",
+        "label": 0
+    },
+    {
+        "cardword": "FIELD",
+        "cardword_sense": "m_en_gbus0359910.003",
+        "clue_sense": "Kwashiorkor",
+        "clue_token": "KWASHIORKOR",
+        "label": 0
+    },
+    {
+        "cardword": "GLOVE",
+        "cardword_sense": "m_en_gbus0417990.005",
+        "clue_sense": "m_en_gbus0787920.011",
+        "clue_token": "PLASTER",
+        "label": 0
+    },
+    {
+        "cardword": "CHECK",
+        "cardword_sense": "m_en_gbus0172020.045",
+        "clue_sense": "Buffalo_'66",
+        "clue_token": "'66",
+        "label": 0
+    },
+    {
+        "cardword": "GERMANY",
+        "cardword_sense": "Germany",
+        "clue_sense": "Emmanuel_Adebayor",
+        "clue_token": "EMMANUEL",
+        "label": 0
+    },
+    {
+        "cardword": "BERLIN",
+        "cardword_sense": "Irving_Berlin",
+        "clue_sense": "m_en_gbus0560100.005",
+        "clue_token": "LACTOFERRIN",
+        "label": 0
+    },
+    {
+        "cardword": "TOOTH",
+        "cardword_sense": "m_en_gbus1061220.018",
+        "clue_sense": "Fiction",
+        "clue_token": "FICTION",
+        "label": 0
+    },
+    {
+        "cardword": "SLUG",
+        "cardword_sense": "m_en_gbus0956970.025",
+        "clue_sense": "m_en_gbus0405050.005",
+        "clue_token": "GATT",
+        "label": 0
+    },
+    {
+        "cardword": "KEY",
+        "cardword_sense": "m_en_gbus0546020.056",
+        "clue_sense": "m_en_gbus0566340.006",
+        "clue_token": "LASCAR",
+        "label": 0
+    },
+    {
+        "cardword": "MAMMOTH",
+        "cardword_sense": "m_en_gbus0612550.005",
+        "clue_sense": "m_en_gbus0857530.005",
+        "clue_token": "REGIONAL",
+        "label": 0
+    },
+    {
+        "cardword": "STAR",
+        "cardword_sense": "m_en_gbus0988430.043",
+        "clue_sense": "m_en_gbus0663170.022",
+        "clue_token": "MOTIF",
+        "label": 0
+    },
+    {
+        "cardword": "MOUSE",
+        "cardword_sense": "Modest_Mouse",
+        "clue_sense": "m_en_gbus0935410.012",
+        "clue_token": "SHIELD",
+        "label": 0
+    },
+    {
+        "cardword": "COURT",
+        "cardword_sense": "m_en_gbus0227120.014",
+        "clue_sense": "m_en_gbus0311670.009",
+        "clue_token": "EDEN",
+        "label": 0
+    },
+    {
+        "cardword": "BAR",
+        "cardword_sense": "m_en_gbus0072320.036",
+        "clue_sense": "m_en_gbus0315020.010",
+        "clue_token": "EJACULATION",
+        "label": 0
+    },
+    {
+        "cardword": "SINK",
+        "cardword_sense": "m_en_gbus0948350.027",
+        "clue_sense": "Cream_(band)",
+        "clue_token": "CREAM",
+        "label": 0
+    },
+    {
+        "cardword": "COVER",
+        "cardword_sense": "m_en_gbus0227840.037",
+        "clue_sense": "m_en_gbus0555330.005",
+        "clue_token": "KOREAN",
+        "label": 0
     }
 ]

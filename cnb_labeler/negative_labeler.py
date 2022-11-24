@@ -45,6 +45,7 @@ def main():
     token_to_sense = get_token_to_sense(dictionary)
 
     while(True):
+        print(f"===== {len(labels_json)} =====")
         result = label(cardwords, dictionary, token_to_sense)
 
         if result is None:
@@ -52,8 +53,8 @@ def main():
             
         labels_json.append(result)
     
-    with open(NEGATIVE_LABELS, "w+") as file:
-        file.write(json.dumps(labels_json, indent=4, sort_keys=True, ensure_ascii=False))
+        with open(NEGATIVE_LABELS, "w+") as file:
+            file.write(json.dumps(labels_json, indent=4, sort_keys=True, ensure_ascii=False))
 
 
 if __name__ == "__main__":

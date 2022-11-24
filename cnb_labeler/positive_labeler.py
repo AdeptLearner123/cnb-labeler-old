@@ -4,6 +4,8 @@ from .dict_utils import read_dicts, get_token_to_sense
 import json
 import random
 import os
+from colorama import Fore
+from colorama import Style
 
 def select_sense(senses, dictionary):
     for i, sense in enumerate(senses):
@@ -28,7 +30,11 @@ def label(cardwords, dictionary, token_to_sense):
     print("CARDWORD SENSES")
     cardword_sense = select_sense(token_to_sense[cardword], dictionary)
 
-    label = int(input("Label [0=Unrelated, 1=Weak, 2=Strong]:"))
+    label = int(input("Label [0=Unrelated, 1=Weak, 2=Strong, 3=Related not through text]:"))
+
+
+    print(f"{Fore.GREEN}{dictionary[clue_sense]['word']}: {dictionary[clue_sense]['definition']}{Style.RESET_ALL}")
+    print(f"{Fore.GREEN}{dictionary[cardword_sense]['word']}: {dictionary[cardword_sense]['definition']}{Style.RESET_ALL}")
 
     return {
         "cardword": cardword,
@@ -53,6 +59,7 @@ def main():
     token_to_sense = get_token_to_sense(dictionary)
 
     while(True):
+        print(f"===== {len(labels_json)} =====")
         result = label(cardwords, dictionary, token_to_sense)
 
         if result is None:
@@ -60,8 +67,8 @@ def main():
             
         labels_json.append(result)
     
-    with open(POSITIVE_LABELS, "w+") as file:
-        file.write(json.dumps(labels_json, indent=4, sort_keys=True, ensure_ascii=False))
+        with open(POSITIVE_LABELS, "w+") as file:
+            file.write(json.dumps(labels_json, indent=4, sort_keys=True, ensure_ascii=False))
 
 
 if __name__ == "__main__":
