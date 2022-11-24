@@ -20,7 +20,7 @@ format                          = "tasks:format"
 
 negative-labeler                = "cnb_labeler.negative_labeler:main"
 positive-labeler                = "cnb_labeler.positive_labeler:main"
-scenario-labeler                = "cnb_labeler.scenario_labeler:main"
+scenario-creator                = "cnb_labeler.scenario_creator:main"
 compile-labels                  = "cnb_labeler.compile_labels:main"
 
 [build-system]
