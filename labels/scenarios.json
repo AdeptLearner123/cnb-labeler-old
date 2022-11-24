@@ -12,7 +12,11 @@
             "CAP",
             "BRIDGE"
         ],
-        "clue": "DIAMOND"
+        "clue": "DIAMOND",
+        "clue_senses": [
+            "m_en_gbus0272540.006",
+            "m_en_gbus0272540.006"
+        ]
     },
     {
         "pos": [
@@ -27,7 +31,11 @@
             "PAN",
             "BEACH"
         ],
-        "clue": "TOOL"
+        "clue": "TOOL",
+        "clue_senses": [
+            "m_en_gbus1061050.007",
+            "m_en_gbus1061050.007"
+        ]
     },
     {
         "pos": [
@@ -42,7 +50,11 @@
             "BERLIN",
             "BUG"
         ],
-        "clue": "FRUIT"
+        "clue": "FRUIT",
+        "clue_senses": [
+            "m_en_gbus0392700.006",
+            "m_en_gbus0392700.006"
+        ]
     },
     {
         "pos": [
@@ -57,7 +69,11 @@
             "WASHER",
             "LOCK"
         ],
-        "clue": "RING"
+        "clue": "RING",
+        "clue_senses": [
+            "m_en_gbus0874590.047",
+            "m_en_gbus0874590.045"
+        ]
     },
     {
         "pos": [
@@ -72,7 +88,11 @@
             "FIGURE",
             "SHOT"
         ],
-        "clue": "WOOD"
+        "clue": "WOOD",
+        "clue_senses": [
+            "m_en_gbus1165390.006",
+            "m_en_gbus1165390.006"
+        ]
     },
     {
         "pos": [
@@ -87,7 +107,11 @@
             "SOLDIER",
             "STREAM"
         ],
-        "clue": "WOODEN"
+        "clue": "WOODEN",
+        "clue_senses": [
+            "m_en_gbus1165630.006",
+            "m_en_gbus1165630.006"
+        ]
     },
     {
         "pos": [
@@ -102,7 +126,11 @@
             "TOOTH",
             "MASS"
         ],
-        "clue": "TRUNK"
+        "clue": "TRUNK",
+        "clue_senses": [
+            "m_en_gbus1078900.019",
+            "m_en_gbus1078900.007"
+        ]
     },
     {
         "pos": [
@@ -117,7 +145,11 @@
             "CHEST",
             "FIGHTER"
         ],
-        "clue": "PRESCRIPTION"
+        "clue": "PRESCRIPTION",
+        "clue_senses": [
+            "m_en_gbus0812210.006",
+            "m_en_gbus0812210.006"
+        ]
     },
     {
         "pos": [
@@ -132,7 +164,11 @@
             "CHAIR",
             "DRAFT"
         ],
-        "clue": "LARGE"
+        "clue": "LARGE",
+        "clue_senses": [
+            "m_en_gbus0565860.006",
+            "m_en_gbus0565860.006"
+        ]
     },
     {
         "pos": [
@@ -147,7 +183,11 @@
             "THUMB",
             "LEMON"
         ],
-        "clue": "WOMAN"
+        "clue": "WOMAN",
+        "clue_senses": [
+            "m_en_gbus1164800.008",
+            "m_en_gbus1164800.008"
+        ]
     },
     {
         "pos": [
@@ -162,7 +202,11 @@
             "LOCK",
             "BACK"
         ],
-        "clue": "WEEKND"
+        "clue": "WEEKND",
+        "clue_senses": [
+            "The_Weeknd",
+            "The_Weeknd"
+        ]
     },
     {
         "pos": [
@@ -177,7 +221,11 @@
             "LUCK",
             "CYCLE"
         ],
-        "clue": "MONEY"
+        "clue": "MONEY",
+        "clue_senses": [
+            "m_en_gbus0655300.005",
+            "m_en_gbus0655300.005"
+        ]
     },
     {
         "pos": [
@@ -192,7 +240,11 @@
             "PRESS",
             "WASHER"
         ],
-        "clue": "MUSIC"
+        "clue": "MUSIC",
+        "clue_senses": [
+            "m_en_gbus0672130.007",
+            "m_en_gbus0672130.006"
+        ]
     },
     {
         "pos": [
@@ -207,7 +259,11 @@
             "ROSE",
             "SPINE"
         ],
-        "clue": "PLATE"
+        "clue": "PLATE",
+        "clue_senses": [
+            "m_en_gbus0788250.006",
+            "m_en_gbus0788250.006"
+        ]
     },
     {
         "pos": [
@@ -222,7 +278,11 @@
             "MAIL",
             "LAB"
         ],
-        "clue": "ANIMAL"
+        "clue": "ANIMAL",
+        "clue_senses": [
+            "m_en_gbus0034270.005",
+            "m_en_gbus0034270.005"
+        ]
     },
     {
         "pos": [
@@ -237,7 +297,11 @@
             "PIE",
             "PALM"
         ],
-        "clue": "SPY"
+        "clue": "SPY",
+        "clue_senses": [
+            "m_en_gbus0983620.005",
+            "m_en_gbus0983620.005"
+        ]
     },
     {
         "pos": [
@@ -252,7 +316,11 @@
             "LINE",
             "EYE"
         ],
-        "clue": "CYLINDER"
+        "clue": "CYLINDER",
+        "clue_senses": [
+            "m_en_gbus0245770.019",
+            "m_en_gbus0245770.019"
+        ]
     },
     {
         "pos": [
@@ -267,7 +335,11 @@
             "TRACK",
             "SPOT"
         ],
-        "clue": "CONQUEST"
+        "clue": "CONQUEST",
+        "clue_senses": [
+            "m_en_gbus0211970.005",
+            "m_en_gbus0211970.005"
+        ]
     },
     {
         "pos": [
@@ -282,7 +354,11 @@
             "DROP",
             "PAN"
         ],
-        "clue": "LARGE"
+        "clue": "LARGE",
+        "clue_senses": [
+            "m_en_gbus0565860.006",
+            "m_en_gbus0565860.006"
+        ]
     },
     {
         "pos": [
@@ -297,7 +373,11 @@
             "FORK",
             "JUPITER"
         ],
-        "clue": "ROCKET"
+        "clue": "ROCKET",
+        "clue_senses": [
+            "m_en_gbus0878380.021",
+            "m_en_gbus0878380.024"
+        ]
     },
     {
         "pos": [
@@ -312,7 +392,11 @@
             "HONEY",
             "BAND"
         ],
-        "clue": "POUND"
+        "clue": "POUND",
+        "clue_senses": [
+            "m_en_gbus0805510.012",
+            "m_en_gbus0805510.012"
+        ]
     },
     {
         "pos": [
@@ -327,7 +411,11 @@
             "POLICE",
             "SPIDER"
         ],
-        "clue": "DOG"
+        "clue": "DOG",
+        "clue_senses": [
+            "m_en_gbus0287810.007",
+            "m_en_gbus0287810.007"
+        ]
     },
     {
         "pos": [
@@ -340,7 +428,11 @@
             "STICK",
             "TRIP"
         ],
-        "clue": "PEOPLE"
+        "clue": "PEOPLE",
+        "clue_senses": [
+            "m_en_gbus0763900.006",
+            "m_en_gbus0763900.006"
+        ]
     },
     {
         "pos": [
@@ -353,7 +445,11 @@
             "ALPS",
             "COLD"
         ],
-        "clue": "FOOD"
+        "clue": "FOOD",
+        "clue_senses": [
+            "m_en_gbus0378040.005",
+            "m_en_gbus0378040.005"
+        ]
     },
     {
         "pos": [
@@ -366,7 +462,11 @@
             "HORSE",
             "BACK"
         ],
-        "clue": "SMOKE"
+        "clue": "SMOKE",
+        "clue_senses": [
+            "m_en_gbus0959090.010",
+            "m_en_gbus0959090.007"
+        ]
     },
     {
         "pos": [
@@ -379,7 +479,11 @@
             "BAND",
             "LION"
         ],
-        "clue": "CIRCLE"
+        "clue": "CIRCLE",
+        "clue_senses": [
+            "m_en_gbus0184670.012",
+            "m_en_gbus0184670.008"
+        ]
     },
     {
         "pos": [
@@ -392,7 +496,11 @@
             "SMUGGLER",
             "FLUTE"
         ],
-        "clue": "SEE"
+        "clue": "SEE",
+        "clue_senses": [
+            "m_en_gbus0917420.011",
+            "m_en_gbus0917420.011"
+        ]
     },
     {
         "pos": [
@@ -405,7 +513,11 @@
             "HIMALAYAS",
             "ROOT"
         ],
-        "clue": "IMPLEMENT"
+        "clue": "IMPLEMENT",
+        "clue_senses": [
+            "m_en_gbus0498960.013",
+            "m_en_gbus0498960.013"
+        ]
     },
     {
         "pos": [
@@ -418,7 +530,11 @@
             "ROW",
             "MINT"
         ],
-        "clue": "OXYGEN"
+        "clue": "OXYGEN",
+        "clue_senses": [
+            "m_en_gbus0738650.005",
+            "m_en_gbus0738650.005"
+        ]
     },
     {
         "pos": [
@@ -431,7 +547,11 @@
             "YARD",
             "DRAGON"
         ],
-        "clue": "LARGE"
+        "clue": "LARGE",
+        "clue_senses": [
+            "m_en_gbus0565860.006",
+            "m_en_gbus0565860.006"
+        ]
     },
     {
         "pos": [
@@ -444,7 +564,11 @@
             "PIE",
             "SHOT"
         ],
-        "clue": "NUMBER"
+        "clue": "NUMBER",
+        "clue_senses": [
+            null,
+            "m_en_gbus0705320.007"
+        ]
     },
     {
         "pos": [
@@ -457,7 +581,11 @@
             "SINK",
             "BUG"
         ],
-        "clue": "LAW"
+        "clue": "LAW",
+        "clue_senses": [
+            "m_en_gbus0568760.007",
+            "m_en_gbus0568760.007"
+        ]
     },
     {
         "pos": [
@@ -470,7 +598,11 @@
             "ARM",
             "NUT"
         ],
-        "clue": "DOG"
+        "clue": "DOG",
+        "clue_senses": [
+            "m_en_gbus0287810.007",
+            "m_en_gbus0287810.007"
+        ]
     },
     {
         "pos": [
@@ -483,7 +615,11 @@
             "SPY",
             "TEACHER"
         ],
-        "clue": "ANIMAL"
+        "clue": "ANIMAL",
+        "clue_senses": [
+            "m_en_gbus0034270.005",
+            "m_en_gbus0034270.005"
+        ]
     },
     {
         "pos": [
@@ -496,7 +632,11 @@
             "PASS",
             "BALL"
         ],
-        "clue": "THANKSGIVING"
+        "clue": "THANKSGIVING",
+        "clue_senses": [
+            "m_en_gbus1044380.013",
+            "m_en_gbus1044380.007"
+        ]
     },
     {
         "pos": [
@@ -509,7 +649,11 @@
             "HEAD",
             "CLUB"
         ],
-        "clue": "GIGANTISM"
+        "clue": "GIGANTISM",
+        "clue_senses": [
+            "m_en_gbus0413550.006",
+            "m_en_gbus0413550.009"
+        ]
     },
     {
         "pos": [
@@ -522,7 +666,11 @@
             "POUND",
             "CASINO"
         ],
-        "clue": "OCHOA"
+        "clue": "OCHOA",
+        "clue_senses": [
+            "Guillermo_Ochoa",
+            "Guillermo_Ochoa"
+        ]
     },
     {
         "pos": [
@@ -535,7 +683,11 @@
             "LONDON",
             "GROUND"
         ],
-        "clue": "SOUND"
+        "clue": "SOUND",
+        "clue_senses": [
+            "m_en_gbus0970160.008",
+            "m_en_gbus0970160.008"
+        ]
     },
     {
         "pos": [
@@ -548,7 +700,11 @@
             "POST",
             "BELL"
         ],
-        "clue": "PLANT"
+        "clue": "PLANT",
+        "clue_senses": [
+            "m_en_gbus0787470.006",
+            "m_en_gbus0787470.006"
+        ]
     },
     {
         "pos": [
@@ -561,7 +717,11 @@
             "UNDERTAKER",
             "BUTTON"
         ],
-        "clue": "CLIFF"
+        "clue": "CLIFF",
+        "clue_senses": [
+            "m_en_gbus0189830.005",
+            "m_en_gbus0189830.005"
+        ]
     },
     {
         "pos": [
@@ -574,7 +734,11 @@
             "MAIL",
             "HOLE"
         ],
-        "clue": "FASCISM"
+        "clue": "FASCISM",
+        "clue_senses": [
+            "m_en_gbus0352150.006",
+            "m_en_gbus0352150.006"
+        ]
     },
     {
         "pos": [
@@ -587,7 +751,11 @@
             "GENIUS",
             "BRIDGE"
         ],
-        "clue": "DEMETER"
+        "clue": "DEMETER",
+        "clue_senses": [
+            "m_en_gbus0262960.005",
+            "m_en_gbus0262960.005"
+        ]
     },
     {
         "pos": [
@@ -600,7 +768,11 @@
             "TIME",
             "SPOT"
         ],
-        "clue": "FIRE"
+        "clue": "FIRE",
+        "clue_senses": [
+            "m_en_gbus0363890.025",
+            "m_en_gbus0363890.006"
+        ]
     },
     {
         "pos": [
@@ -613,7 +785,11 @@
             "ROSE",
             "BELL"
         ],
-        "clue": "RIVER"
+        "clue": "RIVER",
+        "clue_senses": [
+            "m_en_gbus0876190.005",
+            "m_en_gbus0876190.005"
+        ]
     },
     {
         "pos": [
@@ -626,7 +802,11 @@
             "CENTAUR",
             "PIN"
         ],
-        "clue": "CHEST"
+        "clue": "CHEST",
+        "clue_senses": [
+            "m_en_gbus0174190.006",
+            "m_en_gbus0174190.006"
+        ]
     },
     {
         "pos": [
@@ -639,7 +819,11 @@
             "LEAD",
             "FORK"
         ],
-        "clue": "PALEONTOLOGY"
+        "clue": "PALEONTOLOGY",
+        "clue_senses": [
+            "m_en_gbus0742260.007",
+            "m_en_gbus0742260.007"
+        ]
     },
     {
         "pos": [
@@ -652,7 +836,11 @@
             "GOLD",
             "OLYMPUS"
         ],
-        "clue": "FLOWER"
+        "clue": "FLOWER",
+        "clue_senses": [
+            "m_en_gbus0373750.006",
+            "m_en_gbus0373750.006"
+        ]
     },
     {
         "pos": [
@@ -665,7 +853,11 @@
             "SHAKESPEARE",
             "CHINA"
         ],
-        "clue": "GUARDIAN"
+        "clue": "GUARDIAN",
+        "clue_senses": [
+            "The_Guardian",
+            "The_Guardian"
+        ]
     },
     {
         "pos": [
@@ -678,7 +870,11 @@
             "PARACHUTE",
             "SCREEN"
         ],
-        "clue": "ELIZABETH"
+        "clue": "ELIZABETH",
+        "clue_senses": [
+            "m_en_gbus0318470.005",
+            "m_en_gbus0318470.005"
+        ]
     },
     {
         "pos": [
@@ -691,7 +887,11 @@
             "SCORPION",
             "CHEST"
         ],
-        "clue": "ASTRONOMY"
+        "clue": "ASTRONOMY",
+        "clue_senses": [
+            "m_en_gbus0054110.006",
+            "m_en_gbus0054110.006"
+        ]
     },
     {
         "pos": [
@@ -704,7 +904,11 @@
             "CHICK",
             "SQUARE"
         ],
-        "clue": "COMPANY"
+        "clue": "COMPANY",
+        "clue_senses": [
+            "m_en_gbus0205410.006",
+            "m_en_gbus0205410.006"
+        ]
     },
     {
         "pos": [
@@ -717,7 +921,11 @@
             "FLUTE",
             "CAPITAL"
         ],
-        "clue": "SPINE"
+        "clue": "SPINE",
+        "clue_senses": [
+            "m_en_gbus0978530.007",
+            "m_en_gbus0978530.007"
+        ]
     },
     {
         "pos": [
@@ -730,7 +938,11 @@
             "BARK",
             "HIMALAYAS"
         ],
-        "clue": "LAW"
+        "clue": "LAW",
+        "clue_senses": [
+            "m_en_gbus0568760.009",
+            "m_en_gbus0568760.007"
+        ]
     },
     {
         "pos": [
@@ -743,7 +955,11 @@
             "MISSILE",
             "CROWN"
         ],
-        "clue": "FAIL"
+        "clue": "FAIL",
+        "clue_senses": [
+            "m_en_gbus0347460.012",
+            "m_en_gbus0347460.006"
+        ]
     },
     {
         "pos": [
@@ -756,7 +972,11 @@
             "GHOST",
             "CRASH"
         ],
-        "clue": "PRESS"
+        "clue": "PRESS",
+        "clue_senses": [
+            "m_en_gbus0812770.013",
+            "m_en_gbus0812770.006"
+        ]
     },
     {
         "pos": [
@@ -769,7 +989,11 @@
             "CELL",
             "RACKET"
         ],
-        "clue": "MUSICOLOGY"
+        "clue": "MUSICOLOGY",
+        "clue_senses": [
+            "m_en_gbus0672410.005",
+            "m_en_gbus0672410.005"
+        ]
     },
     {
         "pos": [
@@ -782,7 +1006,11 @@
             "JUPITER",
             "ROBIN"
         ],
-        "clue": "IRELAND"
+        "clue": "IRELAND",
+        "clue_senses": [
+            "m_en_gbus0521630.007",
+            "m_en_gbus0521630.007"
+        ]
     },
     {
         "pos": [
@@ -795,7 +1023,11 @@
             "JACK",
             "HELICOPTER"
         ],
-        "clue": "MILLION"
+        "clue": "MILLION",
+        "clue_senses": [
+            "m_en_gbus0644510.006",
+            "m_en_gbus0644510.006"
+        ]
     },
     {
         "pos": [
@@ -808,7 +1040,11 @@
             "CHAIR",
             "KNIGHT"
         ],
-        "clue": "ORGANISM"
+        "clue": "ORGANISM",
+        "clue_senses": [
+            "m_en_gbus0726100.005",
+            "m_en_gbus0726100.005"
+        ]
     },
     {
         "pos": [
@@ -821,7 +1057,11 @@
             "CHAIR",
             "ORANGE"
         ],
-        "clue": "SECRET"
+        "clue": "SECRET",
+        "clue_senses": [
+            "m_en_gbus0916420.005",
+            "m_en_gbus0916420.005"
+        ]
     },
     {
         "pos": [
@@ -834,7 +1074,11 @@
             "SERVER",
             "MOON"
         ],
-        "clue": "FIST"
+        "clue": "FIST",
+        "clue_senses": [
+            "m_en_gbus0366890.005",
+            "m_en_gbus0366890.005"
+        ]
     },
     {
         "pos": [
@@ -847,7 +1091,11 @@
             "ROULETTE",
             "COPPER"
         ],
-        "clue": "CARDS"
+        "clue": "CARD",
+        "clue_senses": [
+            "m_en_gbus0152560.017",
+            "m_en_gbus0152560.017"
+        ]
     },
     {
         "pos": [
@@ -860,7 +1108,11 @@
             "CLOAK",
             "MOUNT"
         ],
-        "clue": "LEGS"
+        "clue": "LEG",
+        "clue_senses": [
+            "m_en_gbus0573260.006",
+            "m_en_gbus0573260.006"
+        ]
     },
     {
         "pos": [
@@ -873,7 +1125,11 @@
             "PYRAMID",
             "CHICK"
         ],
-        "clue": "VEGETATION"
+        "clue": "VEGETATION",
+        "clue_senses": [
+            "m_en_gbus1122690.006",
+            "m_en_gbus1122690.006"
+        ]
     },
     {
         "pos": [
@@ -886,7 +1142,11 @@
             "LITTER",
             "GREEN"
         ],
-        "clue": "PLEISTOCENE"
+        "clue": "PLEISTOCENE",
+        "clue_senses": [
+            "m_en_gbus0789820.005",
+            "Pleistocene"
+        ]
     },
     {
         "pos": [
@@ -899,7 +1159,11 @@
             "CHAIR",
             "TOOTH"
         ],
-        "clue": "RECTANGLE"
+        "clue": "RECTANGLE",
+        "clue_senses": [
+            "m_en_gbus0852330.005",
+            "m_en_gbus0852330.005"
+        ]
     },
     {
         "pos": [
@@ -912,7 +1176,11 @@
             "MINT",
             "BERLIN"
         ],
-        "clue": "HORSE"
+        "clue": "HORSE",
+        "clue_senses": [
+            "m_en_gbus0479490.007",
+            "m_en_gbus0479490.007"
+        ]
     },
     {
         "pos": [
@@ -925,7 +1193,11 @@
             "JUPITER",
             "LUCK"
         ],
-        "clue": "LASER"
+        "clue": "LASER",
+        "clue_senses": [
+            "m_en_gbus0566390.005",
+            "m_en_gbus0566390.005"
+        ]
     },
     {
         "pos": [
@@ -938,7 +1210,11 @@
             "WASHINGTON",
             "ROCK"
         ],
-        "clue": "GREECE"
+        "clue": "GREECE",
+        "clue_senses": [
+            "m_en_gbus0431330.005",
+            "m_en_gbus0431330.005"
+        ]
     },
     {
         "pos": [
@@ -951,7 +1227,11 @@
             "POLE",
             "STICK"
         ],
-        "clue": "EAT"
+        "clue": "EAT",
+        "clue_senses": [
+            "m_en_gbus0309180.012",
+            "m_en_gbus0309180.012"
+        ]
     },
     {
         "pos": [
@@ -964,7 +1244,11 @@
             "ORANGE",
             "BANK"
         ],
-        "clue": "HARVARD"
+        "clue": "HARVARD",
+        "clue_senses": [
+            "m_en_gbus0452820.006",
+            "m_en_gbus0452820.006"
+        ]
     },
     {
         "pos": [
@@ -977,7 +1261,11 @@
             "GROUND",
             "HOTEL"
         ],
-        "clue": "PERSON"
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
     },
     {
         "pos": [
@@ -990,7 +1278,11 @@
             "ROBIN",
             "DWARF"
         ],
-        "clue": "FIGHTER"
+        "clue": "FIGHTER",
+        "clue_senses": [
+            "m_en_gbus0360650.011",
+            "m_en_gbus0360650.006"
+        ]
     },
     {
         "pos": [
@@ -1003,7 +1295,11 @@
             "DEGREE",
             "POLICE"
         ],
-        "clue": "MAMMAL"
+        "clue": "MAMMAL",
+        "clue_senses": [
+            "m_en_gbus0612440.005",
+            "m_en_gbus0612440.005"
+        ]
     },
     {
         "pos": [
@@ -1016,7 +1312,11 @@
             "COMIC",
             "WALL"
         ],
-        "clue": "FOOD"
+        "clue": "FOOD",
+        "clue_senses": [
+            "m_en_gbus0378040.005",
+            "m_en_gbus0378040.005"
+        ]
     },
     {
         "pos": [
@@ -1029,7 +1329,11 @@
             "QUEEN",
             "PUPIL"
         ],
-        "clue": "SERVER"
+        "clue": "SERVER",
+        "clue_senses": [
+            "m_en_gbus0927470.015",
+            "m_en_gbus0927470.015"
+        ]
     },
     {
         "pos": [
@@ -1042,7 +1346,11 @@
             "MOON",
             "INDIA"
         ],
-        "clue": "PERSON"
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
     },
     {
         "pos": [
@@ -1055,7 +1363,11 @@
             "WHALE",
             "BELL"
         ],
-        "clue": "PERSON"
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
     },
     {
         "pos": [
@@ -1068,7 +1380,11 @@
             "ROCK",
             "MOUTH"
         ],
-        "clue": "FINGER"
+        "clue": "FINGER",
+        "clue_senses": [
+            "m_en_gbus0363040.005",
+            "m_en_gbus0363040.005"
+        ]
     },
     {
         "pos": [
@@ -1081,7 +1397,11 @@
             "BOW",
             "WATCH"
         ],
-        "clue": "CAIRO"
+        "clue": "CAIRO",
+        "clue_senses": [
+            "m_en_gbus0143120.006",
+            "m_en_gbus0143120.006"
+        ]
     },
     {
         "pos": [
@@ -1094,7 +1414,11 @@
             "DISEASE",
             "GAME"
         ],
-        "clue": "PERSON"
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
     },
     {
         "pos": [
@@ -1107,7 +1431,11 @@
             "LONDON",
             "INDIA"
         ],
-        "clue": "TRUDEAU"
+        "clue": "TRUDEAU",
+        "clue_senses": [
+            "m_en_gbus1078330.002",
+            "m_en_gbus1078330.002"
+        ]
     },
     {
         "pos": [
@@ -1120,7 +1448,11 @@
             "LEMON",
             "EAGLE"
         ],
-        "clue": "DRINK"
+        "clue": "DRINK",
+        "clue_senses": [
+            "m_en_gbus0298240.012",
+            "m_en_gbus0298240.012"
+        ]
     },
     {
         "pos": [
@@ -1133,7 +1465,11 @@
             "IRON",
             "SOLDIER"
         ],
-        "clue": "TUBE"
+        "clue": "TUBE",
+        "clue_senses": [
+            "m_en_gbus1080120.006",
+            "m_en_gbus1080120.006"
+        ]
     },
     {
         "pos": [
@@ -1146,7 +1482,11 @@
             "LASER",
             "MOUTH"
         ],
-        "clue": "HAMLET"
+        "clue": "HAMLET",
+        "clue_senses": [
+            "m_en_gbus0447620.005",
+            "m_en_gbus0447620.005"
+        ]
     },
     {
         "pos": [
@@ -1159,7 +1499,11 @@
             "TABLET",
             "ROBOT"
         ],
-        "clue": "FLY"
+        "clue": "FLY",
+        "clue_senses": [
+            "m_en_gbus0375190.023",
+            "m_en_gbus0375190.017"
+        ]
     },
     {
         "pos": [
@@ -1172,7 +1516,11 @@
             "HOTEL",
             "MOUTH"
         ],
-        "clue": "SUPERMAN"
+        "clue": "SUPERMAN",
+        "clue_senses": [
+            "m_en_gbus1014940.006",
+            "m_en_gbus1014940.006"
+        ]
     },
     {
         "pos": [
@@ -1185,7 +1533,11 @@
             "HAM",
             "VACUUM"
         ],
-        "clue": "EYES"
+        "clue": "EYE",
+        "clue_senses": [
+            "m_en_gbus0345010.006",
+            "m_en_gbus0345010.006"
+        ]
     },
     {
         "pos": [
@@ -1198,7 +1550,11 @@
             "GREECE",
             "NIGHT"
         ],
-        "clue": "COLLIDE"
+        "clue": "COLLIDE",
+        "clue_senses": [
+            "m_en_gbus0199960.005",
+            "m_en_gbus0199960.005"
+        ]
     },
     {
         "pos": [
@@ -1211,7 +1567,11 @@
             "SUPERHERO",
             "UNDERTAKER"
         ],
-        "clue": "BOEING"
+        "clue": "BOEING",
+        "clue_senses": [
+            "Boeing",
+            "Boeing"
+        ]
     },
     {
         "pos": [
@@ -1224,7 +1584,11 @@
             "FIGHTER",
             "SOCK"
         ],
-        "clue": "DARKNESS"
+        "clue": "DARKNESS",
+        "clue_senses": [
+            "m_en_gbus0250710.006",
+            "m_en_gbus0250710.009"
+        ]
     },
     {
         "pos": [
@@ -1237,7 +1601,11 @@
             "BUG",
             "SHIP"
         ],
-        "clue": "BRAZIL"
+        "clue": "BRAZIL",
+        "clue_senses": [
+            "m_en_gbus0122880.005",
+            "m_en_gbus0122880.005"
+        ]
     },
     {
         "pos": [
@@ -1250,7 +1618,11 @@
             "FORK",
             "AZTEC"
         ],
-        "clue": "ANIMAL"
+        "clue": "ANIMAL",
+        "clue_senses": [
+            "m_en_gbus0034270.005",
+            "m_en_gbus0034270.005"
+        ]
     },
     {
         "pos": [
@@ -1263,7 +1635,11 @@
             "SCIENTIST",
             "IRON"
         ],
-        "clue": "ARDENNES"
+        "clue": "ARDENNES",
+        "clue_senses": [
+            "m_en_gbus0045590.006",
+            "m_en_gbus0045590.006"
+        ]
     },
     {
         "pos": [
@@ -1276,7 +1652,11 @@
             "CRASH",
             "SHADOW"
         ],
-        "clue": "OCEAN"
+        "clue": "OCEAN",
+        "clue_senses": [
+            "m_en_gbus0710410.005",
+            "m_en_gbus0710410.005"
+        ]
     },
     {
         "pos": [
@@ -1289,7 +1669,11 @@
             "ARM",
             "THIEF"
         ],
-        "clue": "INVERTEBRATE"
+        "clue": "INVERTEBRATE",
+        "clue_senses": [
+            "m_en_gbus0519760.007",
+            "m_en_gbus0519760.007"
+        ]
     },
     {
         "pos": [
@@ -1302,7 +1686,11 @@
             "DATE",
             "LINE"
         ],
-        "clue": "MACAO"
+        "clue": "MACAO",
+        "clue_senses": [
+            "m_en_gbus0604070.006",
+            "m_en_gbus0604070.006"
+        ]
     },
     {
         "pos": [
@@ -1315,7 +1703,11 @@
             "LAWYER",
             "TRIP"
         ],
-        "clue": "PLAYGROUND"
+        "clue": "PLAYGROUND",
+        "clue_senses": [
+            "m_en_gbus0789130.005",
+            "m_en_gbus0789130.005"
+        ]
     },
     {
         "pos": [
@@ -1328,7 +1720,11 @@
             "PITCH",
             "GERMANY"
         ],
-        "clue": "NETFLIX"
+        "clue": "NETFLIX",
+        "clue_senses": [
+            "Netflix",
+            "Netflix"
+        ]
     },
     {
         "pos": [
@@ -1341,6 +1737,10 @@
             "CALF",
             "CENTAUR"
         ],
-        "clue": "VEHICLE"
+        "clue": "VEHICLE",
+        "clue_senses": [
+            "m_en_gbus1122780.010",
+            "m_en_gbus1122780.010"
+        ]
     }
 ]
