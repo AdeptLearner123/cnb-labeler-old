@@ -4,13 +4,25 @@ import json
 import random
 import os
 
-NUM_POS = 2
+NUM_POS = 8
 NUM_NEG = 4
+
+def select_pos_words(options, neg_words):
+    print("SELECT POS WORD 1:")
+    for i, option in enumerate(options):
+        print("\t", i, option)
+    print("NEG:", ",".join(neg_words))
+    idx1 = int(input("Index 1:"))
+    idx2 = int(input("Index 2:"))
+    return [ options[idx1], options[idx2] ]
+
 
 def generate_scenario(cardwords):
     sample = random.sample(cardwords, NUM_POS + NUM_NEG)
-    pos_words = sample[:NUM_POS]
+    pos_word_options = sample[:NUM_POS]
     neg_words = sample[NUM_POS:]
+
+    pos_words = select_pos_words(pos_word_options, neg_words)
 
     print("POS:", ",".join(pos_words))
     print("NEG:", ",".join(neg_words))

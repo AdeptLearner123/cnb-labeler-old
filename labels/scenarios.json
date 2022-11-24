@@ -705,5 +705,642 @@
             "SQUARE"
         ],
         "clue": "COMPANY"
+    },
+    {
+        "pos": [
+            "BACK",
+            "EAGLE"
+        ],
+        "neg": [
+            "ICE CREAM",
+            "NEEDLE",
+            "FLUTE",
+            "CAPITAL"
+        ],
+        "clue": "SPINE"
+    },
+    {
+        "pos": [
+            "BILL",
+            "FORCE"
+        ],
+        "neg": [
+            "POUND",
+            "SNOW",
+            "BARK",
+            "HIMALAYAS"
+        ],
+        "clue": "LAW"
+    },
+    {
+        "pos": [
+            "TEACHER",
+            "CRASH"
+        ],
+        "neg": [
+            "CLOAK",
+            "CANADA",
+            "MISSILE",
+            "CROWN"
+        ],
+        "clue": "FAIL"
+    },
+    {
+        "pos": [
+            "THUMB",
+            "GROUND"
+        ],
+        "neg": [
+            "CIRCLE",
+            "RABBIT",
+            "GHOST",
+            "CRASH"
+        ],
+        "clue": "PRESS"
+    },
+    {
+        "pos": [
+            "SCIENTIST",
+            "BEAT"
+        ],
+        "neg": [
+            "COVER",
+            "FISH",
+            "CELL",
+            "RACKET"
+        ],
+        "clue": "MUSICOLOGY"
+    },
+    {
+        "pos": [
+            "LEPRECHAUN",
+            "GREECE"
+        ],
+        "neg": [
+            "STRING",
+            "WAKE",
+            "JUPITER",
+            "ROBIN"
+        ],
+        "clue": "IRELAND"
+    },
+    {
+        "pos": [
+            "MILLIONAIRE",
+            "LOG"
+        ],
+        "neg": [
+            "OPERA",
+            "TRIP",
+            "JACK",
+            "HELICOPTER"
+        ],
+        "clue": "MILLION"
+    },
+    {
+        "pos": [
+            "LEPRECHAUN",
+            "EAGLE"
+        ],
+        "neg": [
+            "CENTER",
+            "TOKYO",
+            "CHAIR",
+            "KNIGHT"
+        ],
+        "clue": "ORGANISM"
+    },
+    {
+        "pos": [
+            "CODE",
+            "SPY"
+        ],
+        "neg": [
+            "EYE",
+            "SPIKE",
+            "CHAIR",
+            "ORANGE"
+        ],
+        "clue": "SECRET"
+    },
+    {
+        "pos": [
+            "PALM",
+            "STRIKE"
+        ],
+        "neg": [
+            "MILLIONAIRE",
+            "RING",
+            "SERVER",
+            "MOON"
+        ],
+        "clue": "FIST"
+    },
+    {
+        "pos": [
+            "BRIDGE",
+            "PLAY"
+        ],
+        "neg": [
+            "NIGHT",
+            "ROBOT",
+            "ROULETTE",
+            "COPPER"
+        ],
+        "clue": "CARDS"
+    },
+    {
+        "pos": [
+            "KANGAROO",
+            "PANTS"
+        ],
+        "neg": [
+            "TRACK",
+            "LAP",
+            "CLOAK",
+            "MOUNT"
+        ],
+        "clue": "LEGS"
+    },
+    {
+        "pos": [
+            "GRASS",
+            "FIELD"
+        ],
+        "neg": [
+            "APPLE",
+            "SHAKESPEARE",
+            "PYRAMID",
+            "CHICK"
+        ],
+        "clue": "VEGETATION"
+    },
+    {
+        "pos": [
+            "MAMMOTH",
+            "ICE"
+        ],
+        "neg": [
+            "DATE",
+            "FILE",
+            "LITTER",
+            "GREEN"
+        ],
+        "clue": "PLEISTOCENE"
+    },
+    {
+        "pos": [
+            "CARD",
+            "SQUARE"
+        ],
+        "neg": [
+            "HEART",
+            "DEGREE",
+            "CHAIR",
+            "TOOTH"
+        ],
+        "clue": "RECTANGLE"
+    },
+    {
+        "pos": [
+            "CENTAUR",
+            "BUCK"
+        ],
+        "neg": [
+            "GREECE",
+            "SHADOW",
+            "MINT",
+            "BERLIN"
+        ],
+        "clue": "HORSE"
+    },
+    {
+        "pos": [
+            "RAY",
+            "LIGHT"
+        ],
+        "neg": [
+            "PART",
+            "NAIL",
+            "JUPITER",
+            "LUCK"
+        ],
+        "clue": "LASER"
+    },
+    {
+        "pos": [
+            "FRANCE",
+            "AMAZON"
+        ],
+        "neg": [
+            "WORM",
+            "BLOCK",
+            "WASHINGTON",
+            "ROCK"
+        ],
+        "clue": "GREECE"
+    },
+    {
+        "pos": [
+            "OCTOPUS",
+            "MOUTH"
+        ],
+        "neg": [
+            "GRACE",
+            "ALIEN",
+            "POLE",
+            "STICK"
+        ],
+        "clue": "EAT"
+    },
+    {
+        "pos": [
+            "SCHOOL",
+            "AMERICA"
+        ],
+        "neg": [
+            "DWARF",
+            "BATTERY",
+            "ORANGE",
+            "BANK"
+        ],
+        "clue": "HARVARD"
+    },
+    {
+        "pos": [
+            "POLICE",
+            "TEACHER"
+        ],
+        "neg": [
+            "PIT",
+            "ROCK",
+            "GROUND",
+            "HOTEL"
+        ],
+        "clue": "PERSON"
+    },
+    {
+        "pos": [
+            "JET",
+            "KNIGHT"
+        ],
+        "neg": [
+            "OIL",
+            "PLAY",
+            "ROBIN",
+            "DWARF"
+        ],
+        "clue": "FIGHTER"
+    },
+    {
+        "pos": [
+            "WHALE",
+            "DOG"
+        ],
+        "neg": [
+            "NUT",
+            "ARM",
+            "DEGREE",
+            "POLICE"
+        ],
+        "clue": "MAMMAL"
+    },
+    {
+        "pos": [
+            "TABLE",
+            "ICE CREAM"
+        ],
+        "neg": [
+            "DATE",
+            "PLATE",
+            "COMIC",
+            "WALL"
+        ],
+        "clue": "FOOD"
+    },
+    {
+        "pos": [
+            "WEB",
+            "CODE"
+        ],
+        "neg": [
+            "PASTE",
+            "PLASTIC",
+            "QUEEN",
+            "PUPIL"
+        ],
+        "clue": "SERVER"
+    },
+    {
+        "pos": [
+            "STAFF",
+            "VET"
+        ],
+        "neg": [
+            "TURKEY",
+            "BACK",
+            "MOON",
+            "INDIA"
+        ],
+        "clue": "PERSON"
+    },
+    {
+        "pos": [
+            "UNDERTAKER",
+            "HONEY"
+        ],
+        "neg": [
+            "LUCK",
+            "BRIDGE",
+            "WHALE",
+            "BELL"
+        ],
+        "clue": "PERSON"
+    },
+    {
+        "pos": [
+            "TAP",
+            "PALM"
+        ],
+        "neg": [
+            "YARD",
+            "MOLE",
+            "ROCK",
+            "MOUTH"
+        ],
+        "clue": "FINGER"
+    },
+    {
+        "pos": [
+            "LONDON",
+            "EGYPT"
+        ],
+        "neg": [
+            "TORCH",
+            "ORGAN",
+            "BOW",
+            "WATCH"
+        ],
+        "clue": "CAIRO"
+    },
+    {
+        "pos": [
+            "SCUBA DIVER",
+            "CONDUCTOR"
+        ],
+        "neg": [
+            "PUMPKIN",
+            "FORCE",
+            "DISEASE",
+            "GAME"
+        ],
+        "clue": "PERSON"
+    },
+    {
+        "pos": [
+            "HEAD",
+            "CANADA"
+        ],
+        "neg": [
+            "LASER",
+            "TRIP",
+            "LONDON",
+            "INDIA"
+        ],
+        "clue": "TRUDEAU"
+    },
+    {
+        "pos": [
+            "MOUTH",
+            "STRAW"
+        ],
+        "neg": [
+            "FAIR",
+            "HOSPITAL",
+            "LEMON",
+            "EAGLE"
+        ],
+        "clue": "DRINK"
+    },
+    {
+        "pos": [
+            "FLUTE",
+            "PIPE"
+        ],
+        "neg": [
+            "MINE",
+            "SCUBA DIVER",
+            "IRON",
+            "SOLDIER"
+        ],
+        "clue": "TUBE"
+    },
+    {
+        "pos": [
+            "SHAKESPEARE",
+            "OPERA"
+        ],
+        "neg": [
+            "SNOW",
+            "CRANE",
+            "LASER",
+            "MOUTH"
+        ],
+        "clue": "HAMLET"
+    },
+    {
+        "pos": [
+            "JET",
+            "AIR"
+        ],
+        "neg": [
+            "DICE",
+            "BARK",
+            "TABLET",
+            "ROBOT"
+        ],
+        "clue": "FLY"
+    },
+    {
+        "pos": [
+            "HOLLYWOOD",
+            "SUPERHERO"
+        ],
+        "neg": [
+            "BUGLE",
+            "CENTER",
+            "HOTEL",
+            "MOUTH"
+        ],
+        "clue": "SUPERMAN"
+    },
+    {
+        "pos": [
+            "GLASS",
+            "CHEST"
+        ],
+        "neg": [
+            "CHINA",
+            "STATE",
+            "HAM",
+            "VACUUM"
+        ],
+        "clue": "EYES"
+    },
+    {
+        "pos": [
+            "FALL",
+            "CRASH"
+        ],
+        "neg": [
+            "SMUGGLER",
+            "HORN",
+            "GREECE",
+            "NIGHT"
+        ],
+        "clue": "COLLIDE"
+    },
+    {
+        "pos": [
+            "JET",
+            "STOCK"
+        ],
+        "neg": [
+            "MERCURY",
+            "KNIFE",
+            "SUPERHERO",
+            "UNDERTAKER"
+        ],
+        "clue": "BOEING"
+    },
+    {
+        "pos": [
+            "LIGHT",
+            "NIGHT"
+        ],
+        "neg": [
+            "SCORPION",
+            "STRING",
+            "FIGHTER",
+            "SOCK"
+        ],
+        "clue": "DARKNESS"
+    },
+    {
+        "pos": [
+            "CZECH",
+            "AMAZON"
+        ],
+        "neg": [
+            "RACKET",
+            "PLOT",
+            "BUG",
+            "SHIP"
+        ],
+        "clue": "BRAZIL"
+    },
+    {
+        "pos": [
+            "BEAR",
+            "CHICK"
+        ],
+        "neg": [
+            "JACK",
+            "TABLET",
+            "FORK",
+            "AZTEC"
+        ],
+        "clue": "ANIMAL"
+    },
+    {
+        "pos": [
+            "FOREST",
+            "ALPS"
+        ],
+        "neg": [
+            "SLIP",
+            "MARCH",
+            "SCIENTIST",
+            "IRON"
+        ],
+        "clue": "ARDENNES"
+    },
+    {
+        "pos": [
+            "OCTOPUS",
+            "WHALE"
+        ],
+        "neg": [
+            "CAPITAL",
+            "WALL",
+            "CRASH",
+            "SHADOW"
+        ],
+        "clue": "OCEAN"
+    },
+    {
+        "pos": [
+            "SPIDER",
+            "SCORPION"
+        ],
+        "neg": [
+            "CHANGE",
+            "SCIENTIST",
+            "ARM",
+            "THIEF"
+        ],
+        "clue": "INVERTEBRATE"
+    },
+    {
+        "pos": [
+            "BEIJING",
+            "LUCK"
+        ],
+        "neg": [
+            "MISSILE",
+            "KING",
+            "DATE",
+            "LINE"
+        ],
+        "clue": "MACAO"
+    },
+    {
+        "pos": [
+            "FALL",
+            "KID"
+        ],
+        "neg": [
+            "TELESCOPE",
+            "CAP",
+            "LAWYER",
+            "TRIP"
+        ],
+        "clue": "PLAYGROUND"
+    },
+    {
+        "pos": [
+            "STREAM",
+            "THEATER"
+        ],
+        "neg": [
+            "AGENT",
+            "SATELLITE",
+            "PITCH",
+            "GERMANY"
+        ],
+        "clue": "NETFLIX"
+    },
+    {
+        "pos": [
+            "AMBULANCE",
+            "CAR"
+        ],
+        "neg": [
+            "TABLET",
+            "HORN",
+            "CALF",
+            "CENTAUR"
+        ],
+        "clue": "VEHICLE"
     }
 ]
