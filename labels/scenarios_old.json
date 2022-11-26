@@ -1,0 +1,2139 @@
+[
+    {
+        "pos": [
+            "ROCK",
+            "SMUGGLER"
+        ],
+        "neg": [
+            "EGYPT",
+            "STICK",
+            "PUPIL",
+            "TOWER",
+            "CAP",
+            "BRIDGE"
+        ],
+        "clue": "DIAMOND",
+        "clue_senses": [
+            "m_en_gbus0272540.006",
+            "m_en_gbus0272540.006"
+        ],
+        "cardword_senses": {
+            "ROCK": {
+                "m_en_gbus0587680.005": 0,
+                "m_en_gbus0878040.008": 2,
+                "m_en_gbus0878040.010": 1,
+                "m_en_gbus0878040.013": 1,
+                "m_en_gbus0878040.014": 0,
+                "m_en_gbus0878040.019": 1,
+                "m_en_gbus0878040.020": 2,
+                "m_en_gbus0878040.021": 0,
+                "m_en_gbus0878040.022": 2,
+                "m_en_gbus0878040.023": 0,
+                "m_en_gbus0878040.024": 0,
+                "m_en_gbus0878040.027": 0,
+                "m_en_gbus0878040.028": 0,
+                "m_en_gbus0878040.030": 0,
+                "m_en_gbus0878050.006": 0,
+                "m_en_gbus0878050.013": 0,
+                "m_en_gbus0878050.014": 0,
+                "m_en_gbus0878050.016": 0,
+                "m_en_gbus0878050.017": 0,
+                "m_en_gbus0878050.020": 0,
+                "m_en_gbus0878050.023": 0,
+                "m_en_gbus0878050.025": 0,
+                "m_en_gbus0878050.027": 0,
+                "m_en_gbus0884560.002": 0,
+                "Ad-Rock": 0,
+                "Aesop_Rock": 0,
+                "Blossom_Rock": 0,
+                "Bob_Rock": 0,
+                "Bretman_Rock": 0,
+                "Chris_Rock": 0,
+                "Fraggle_Rock": 0,
+                "Kid_Rock": 0,
+                "Rock_(geology)": 2,
+                "Rock_Hudson": 0,
+                "The_Rock_(film)": 0,
+                "Tony_Rock": 0,
+                "Young_Rock": 0
+            },
+            "SMUGGLER": {
+                "m_en_gbus0959970.006": 3
+            },
+            "EGYPT": {
+                "m_en_gbus0314210.005": 0,
+                "Ancient_Egypt": 0,
+                "Egypt": 0
+            },
+            "STICK": {
+                "m_en_gbus0994750.007": 0,
+                "m_en_gbus0994750.010": 0,
+                "m_en_gbus0994750.011": 0,
+                "m_en_gbus0994750.012": 0,
+                "m_en_gbus0994750.014": 0,
+                "m_en_gbus0994750.015": 0,
+                "m_en_gbus0994750.016": 0,
+                "m_en_gbus0994750.017": 0,
+                "m_en_gbus0994750.020": 0,
+                "m_en_gbus0994750.021": 0,
+                "m_en_gbus0994750.024": 0,
+                "m_en_gbus0994750.025": 0,
+                "m_en_gbus0994750.026": 0,
+                "m_en_gbus0994750.027": 0,
+                "m_en_gbus0994750.028": 0,
+                "m_en_gbus0994750.029": 0,
+                "m_en_gbus0994750.031": 0,
+                "m_en_gbus0994750.032": 0,
+                "m_en_gbus0994750.035": 0,
+                "m_en_gbus0994750.037": 0,
+                "m_en_gbus0994760.010": 0,
+                "m_en_gbus0994760.016": 0,
+                "m_en_gbus0994760.017": 0,
+                "m_en_gbus0994760.018": 0,
+                "m_en_gbus0994760.020": 0,
+                "m_en_gbus0994760.021": 0,
+                "m_en_gbus0994760.022": 0,
+                "m_en_gbus0994760.023": 0,
+                "m_en_gbus0994760.024": 0,
+                "m_en_gbus0994760.026": 0,
+                "m_en_gbus0994760.027": 0,
+                "m_en_gbus0994760.028": 0,
+                "m_en_gbus0994760.029": 0,
+                "m_en_gbus0994760.032": 0,
+                "m_en_gbus0994760.033": 0,
+                "m_en_gbus0994760.034": 0,
+                "m_en_gbus0994760.035": 0,
+                "m_en_gbus0994760.036": 0,
+                "m_en_gbus0994760.037": 0,
+                "m_en_gbus0994760.041": 0
+            },
+            "PUPIL": {
+                "m_en_gbus0830240.006": 0,
+                "m_en_gbus0830250.006": 0
+            },
+            "TOWER": {
+                "m_en_gbus1065230.005": 0,
+                "m_en_gbus1065230.008": 0,
+                "m_en_gbus1065230.009": 0,
+                "m_en_gbus1065230.010": 0,
+                "m_en_gbus1065230.011": 0,
+                "m_en_gbus1065230.028": 0,
+                "m_en_gbus1065230.035": 0,
+                "m_en_gbus1065250.003": 0,
+                "CN_Tower": 0,
+                "Jeddah_Tower": 0,
+                "Tower_Heist": 0
+            },
+            "CAP": {
+                "m_en_gbus0149410.008": 0,
+                "m_en_gbus0149410.011": 0,
+                "m_en_gbus0149410.014": 0,
+                "m_en_gbus0149410.015": 0,
+                "m_en_gbus0149410.017": 0,
+                "m_en_gbus0149410.018": 0,
+                "m_en_gbus0149410.020": 0,
+                "m_en_gbus0149410.027": 0,
+                "m_en_gbus0149410.034": 0,
+                "m_en_gbus0149410.040": 0,
+                "m_en_gbus0149410.041": 0,
+                "m_en_gbus0149410.043": 0,
+                "m_en_gbus0149410.044": 0,
+                "m_en_gbus0149410.046": 0,
+                "m_en_gbus0203900.005": 0,
+                "Cap_(sport)": 0
+            },
+            "BRIDGE": {
+                "m_en_gbus0125270.008": 0,
+                "m_en_gbus0125270.011": 0,
+                "m_en_gbus0125270.015": 0,
+                "m_en_gbus0125270.017": 0,
+                "m_en_gbus0125270.018": 0,
+                "m_en_gbus0125270.020": 0,
+                "m_en_gbus0125270.022": 0,
+                "m_en_gbus0125270.024": 0,
+                "m_en_gbus0125270.026": 0,
+                "m_en_gbus0125270.027": 0,
+                "m_en_gbus0125270.029": 0,
+                "m_en_gbus0125270.031": 0,
+                "m_en_gbus0125270.037": 0,
+                "m_en_gbus0125270.038": 0,
+                "m_en_gbus0125280.005": 0,
+                "m_en_gbus0125310.003": 0,
+                "Ackley_Bridge": 0,
+                "Alter_Bridge": 0,
+                "Mackinac_Bridge": 0,
+                "The_Bridge_(2011_TV_series)": 0,
+                "The_Bridge_(2013_TV_series)": 0,
+                "Wayne_Bridge": 0
+            }
+        }
+    },
+    {
+        "pos": [
+            "BRUSH",
+            "FILE"
+        ],
+        "neg": [
+            "TRAIN",
+            "CYCLE",
+            "BAND",
+            "WAKE",
+            "PAN",
+            "BEACH"
+        ],
+        "clue": "TOOL",
+        "clue_senses": [
+            "m_en_gbus1061050.007",
+            "m_en_gbus1061050.007"
+        ],
+        "cardword_senses": {
+            "BRUSH": {
+                "m_en_gbus0130260.007": 2,
+                "m_en_gbus0130260.010": 1,
+                "m_en_gbus0130260.012": 0,
+                "m_en_gbus0130260.013": 0,
+                "m_en_gbus0130260.015": 0,
+                "m_en_gbus0130260.017": 1,
+                "m_en_gbus0130260.019": 0,
+                "m_en_gbus0130260.025": 0,
+                "m_en_gbus0130260.031": 1,
+                "m_en_gbus0130260.032": 1,
+                "m_en_gbus0130260.033": 1,
+                "m_en_gbus0130260.034": 1,
+                "m_en_gbus0130260.037": 0,
+                "m_en_gbus0130260.038": 0,
+                "m_en_gbus0130270.005": 0,
+                "m_en_gbus0130270.008": 0
+            },
+            "FILE": {
+                "m_en_gbus0361110.014": 0,
+                "m_en_gbus0361110.017": 0,
+                "m_en_gbus0361110.018": 0,
+                "m_en_gbus0361110.020": 0,
+                "m_en_gbus0361110.026": 0,
+                "m_en_gbus0361110.027": 0,
+                "m_en_gbus0361120.005": 0,
+                "m_en_gbus0361120.008": 0,
+                "m_en_gbus0361120.009": 0,
+                "m_en_gbus0361120.011": 0,
+                "m_en_gbus0361130.005": 2,
+                "m_en_gbus0361130.009": 1,
+                "m_en_gbus0361130.015": 1
+            },
+            "TRAIN": {
+                "m_en_gbus1067900.007": 0,
+                "m_en_gbus1067900.013": 0,
+                "m_en_gbus1067900.014": 0,
+                "m_en_gbus1067900.015": 0,
+                "m_en_gbus1067900.016": 0,
+                "m_en_gbus1067900.017": 0,
+                "m_en_gbus1067900.018": 0,
+                "m_en_gbus1067900.020": 0,
+                "m_en_gbus1067900.022": 0,
+                "m_en_gbus1067900.024": 0,
+                "m_en_gbus1067900.027": 0,
+                "m_en_gbus1067900.031": 0,
+                "m_en_gbus1067900.032": 0,
+                "m_en_gbus1067900.033": 0,
+                "m_en_gbus1067900.034": 0,
+                "m_en_gbus1067900.036": 0,
+                "m_en_gbus1067900.038": 0,
+                "Train": 0,
+                "Train_(band)": 0
+            },
+            "CYCLE": {
+                "m_en_gbus0245280.006": 0,
+                "m_en_gbus0245280.009": 0,
+                "m_en_gbus0245280.010": 0,
+                "m_en_gbus0245280.011": 0,
+                "m_en_gbus0245280.012": 0,
+                "m_en_gbus0245280.013": 0,
+                "m_en_gbus0245280.014": 0,
+                "m_en_gbus0245280.015": 0,
+                "m_en_gbus0245280.017": 0,
+                "m_en_gbus0245280.018": 0,
+                "m_en_gbus0245280.020": 1,
+                "m_en_gbus0245280.021": 0,
+                "m_en_gbus0245280.024": 0,
+                "m_en_gbus0245280.031": 0,
+                "Yuga_Cycle": 0
+            },
+            "BAND": {
+                "m_en_gbus0070620.006": 0,
+                "m_en_gbus0070620.010": 0,
+                "m_en_gbus0070620.011": 0,
+                "m_en_gbus0070620.012": 0,
+                "m_en_gbus0070620.013": 0,
+                "m_en_gbus0070620.016": 0,
+                "m_en_gbus0070620.020": 0,
+                "m_en_gbus0070620.023": 0,
+                "m_en_gbus0070620.028": 0,
+                "m_en_gbus0070620.034": 0,
+                "m_en_gbus0070620.036": 0,
+                "m_en_gbus0070630.007": 0,
+                "m_en_gbus0070630.010": 0,
+                "m_en_gbus0070630.011": 0,
+                "m_en_gbus0070630.013": 0,
+                "m_en_gbus0070630.014": 0,
+                "m_en_gbus0070630.018": 0,
+                "m_en_gbus0070630.020": 0,
+                "The_Band": 0
+            },
+            "WAKE": {
+                "m_en_gbus1138080.014": 0,
+                "m_en_gbus1138080.021": 0,
+                "m_en_gbus1138080.022": 0,
+                "m_en_gbus1138080.024": 0,
+                "m_en_gbus1138080.027": 0,
+                "m_en_gbus1138080.032": 0,
+                "m_en_gbus1138090.005": 0,
+                "m_en_gbus1138090.008": 0,
+                "m_en_gbus1138140.004": 0,
+                "Alan_Wake": 0,
+                "Nancy_Wake": 0
+            },
+            "PAN": {
+                "m_en_gbus0739250.004": 0,
+                "m_en_gbus0744120.006": 0,
+                "m_en_gbus0744140.006": 1,
+                "m_en_gbus0744140.009": 0,
+                "m_en_gbus0744140.010": 0,
+                "m_en_gbus0744140.012": 0,
+                "m_en_gbus0744140.014": 0,
+                "m_en_gbus0744140.016": 0,
+                "m_en_gbus0744140.018": 0,
+                "m_en_gbus0744140.022": 0,
+                "m_en_gbus0744140.028": 0,
+                "m_en_gbus0744140.033": 0,
+                "m_en_gbus0744140.040": 0,
+                "m_en_gbus0744150.007": 0,
+                "m_en_gbus0744150.013": 0,
+                "m_en_gbus0744150.015": 0,
+                "m_en_gbus0770340.005": 0,
+                "m_en_gbus0770340.007": 0,
+                "Jennifer_Pan": 0,
+                "Pan_(2015_film)": 0,
+                "Pan_(god)": 0,
+                "Peter_Pan": 0,
+                "Peter_Pan_(1953_film)": 0,
+                "Peter_Pan_(2003_film)": 0
+            },
+            "BEACH": {
+                "m_en_gbus0080050.005": 0,
+                "m_en_gbus0080050.009": 0,
+                "m_en_gbus0080050.015": 0,
+                "m_en_gbus0080050.016": 0,
+                "m_en_gbus0080050.017": 0,
+                "m_en_gbus0592680.005": 0,
+                "Adam_Beach": 0,
+                "Kyle_Beach": 0,
+                "Michael_Beach": 0,
+                "The_Beach_(film)": 0
+            }
+        }
+    },
+    {
+        "pos": [
+            "KIWI",
+            "APPLE"
+        ],
+        "neg": [
+            "CRASH",
+            "LAWYER",
+            "TOWER",
+            "THEATER",
+            "BERLIN",
+            "BUG"
+        ],
+        "clue": "FRUIT",
+        "clue_senses": [
+            "m_en_gbus0392700.006",
+            "m_en_gbus0392700.006"
+        ],
+        "cardword_senses": {
+            "KIWI": {
+                "m_en_gbus0551930.007": 0,
+                "m_en_gbus0551930.014": 0,
+                "m_en_gbus0552000.005": 2,
+                "Kiwi_(bird)": 0,
+                "Kiwi_Farms": 0
+            },
+            "APPLE": {
+                "m_en_gbus0041790.006": 2,
+                "m_en_gbus0041790.009": 2,
+                "m_en_gbus0041790.013": 1,
+                "m_en_gbus0092740.003": 0,
+                "Apple": 2,
+                "Apple_Card": 0,
+                "Apple_Inc.": 0,
+                "Fiona_Apple": 0,
+                "Zach_Apple": 0
+            },
+            "CRASH": {
+                "m_en_gbus0230750.006": 0,
+                "m_en_gbus0230750.012": 0,
+                "m_en_gbus0230750.013": 0,
+                "m_en_gbus0230750.014": 0,
+                "m_en_gbus0230750.016": 0,
+                "m_en_gbus0230750.018": 0,
+                "m_en_gbus0230750.020": 0,
+                "m_en_gbus0230750.023": 0,
+                "m_en_gbus0230750.024": 0,
+                "m_en_gbus0230750.026": 0,
+                "m_en_gbus0230750.029": 0,
+                "m_en_gbus0230750.032": 0,
+                "m_en_gbus0230750.035": 0,
+                "m_en_gbus0230750.037": 0,
+                "m_en_gbus0230750.039": 0,
+                "m_en_gbus0230750.040": 0,
+                "m_en_gbus0230750.042": 0,
+                "m_en_gbus0230750.044": 0,
+                "m_en_gbus0230760.005": 0,
+                "Crash_(1996_film)": 0,
+                "Crash_(2004_film)": 0,
+                "Crash_Holly": 0,
+                "Snow_Crash": 0
+            },
+            "LAWYER": {
+                "m_en_gbus0569360.006": 0,
+                "m_en_gbus0569360.012": 0,
+                "m_en_gbus0569360.023": 0,
+                "Lawyer": 0
+            },
+            "TOWER": {
+                "m_en_gbus1065230.005": 0,
+                "m_en_gbus1065230.008": 0,
+                "m_en_gbus1065230.009": 0,
+                "m_en_gbus1065230.010": 0,
+                "m_en_gbus1065230.011": 0,
+                "m_en_gbus1065230.028": 0,
+                "m_en_gbus1065230.035": 0,
+                "m_en_gbus1065250.003": 0,
+                "CN_Tower": 0,
+                "Jeddah_Tower": 0,
+                "Tower_Heist": 0
+            },
+            "THEATER": {
+                "m_en_gbus1044650.030": 0,
+                "m_en_gbus1044650.035": 0,
+                "m_en_gbus1044650.038": 0,
+                "m_en_gbus1044650.039": 0,
+                "m_en_gbus1044650.040": 0,
+                "m_en_gbus1044650.041": 0,
+                "m_en_gbus1044650.042": 0
+            },
+            "BERLIN": {
+                "m_en_gbus0088580.005": 0,
+                "m_en_gbus0088620.005": 0,
+                "m_en_gbus0088630.003": 0,
+                "m_en_gbus0088640.003": 0,
+                "Babylon_Berlin": 0,
+                "Battle_of_Berlin": 0,
+                "Berlin": 0,
+                "Berlin_(Money_Heist)": 0,
+                "Berlin_(band)": 0,
+                "Irving_Berlin": 0
+            },
+            "BUG": {
+                "m_en_gbus0132690.025": 0,
+                "m_en_gbus0132690.028": 0,
+                "m_en_gbus0132690.029": 0,
+                "m_en_gbus0132690.030": 0,
+                "m_en_gbus0132690.032": 0,
+                "m_en_gbus0132690.036": 0,
+                "m_en_gbus0132690.038": 0,
+                "m_en_gbus0132690.043": 0,
+                "m_en_gbus0132690.049": 0,
+                "m_en_gbus0132690.051": 0,
+                "Bug_Hall": 0
+            }
+        }
+    },
+    {
+        "pos": [
+            "BOOM",
+            "CELL"
+        ],
+        "neg": [
+            "PLATYPUS",
+            "EMBASSY",
+            "PIANO",
+            "EAGLE",
+            "WASHER",
+            "LOCK"
+        ],
+        "clue": "RING",
+        "clue_senses": [
+            "m_en_gbus0874590.047",
+            "m_en_gbus0874590.045"
+        ]
+    },
+    {
+        "pos": [
+            "BOARD",
+            "SPIKE"
+        ],
+        "neg": [
+            "CROWN",
+            "PIT",
+            "WATCH",
+            "PART",
+            "FIGURE",
+            "SHOT"
+        ],
+        "clue": "WOOD",
+        "clue_senses": [
+            "m_en_gbus1165390.006",
+            "m_en_gbus1165390.006"
+        ]
+    },
+    {
+        "pos": [
+            "DECK",
+            "TRUNK"
+        ],
+        "neg": [
+            "FLY",
+            "ROOT",
+            "SHOE",
+            "LEAD",
+            "SOLDIER",
+            "STREAM"
+        ],
+        "clue": "WOODEN",
+        "clue_senses": [
+            "m_en_gbus1165630.006",
+            "m_en_gbus1165630.006"
+        ]
+    },
+    {
+        "pos": [
+            "CAR",
+            "ROOT"
+        ],
+        "neg": [
+            "MILLIONAIRE",
+            "SCORPION",
+            "STATE",
+            "SATURN",
+            "TOOTH",
+            "MASS"
+        ],
+        "clue": "TRUNK",
+        "clue_senses": [
+            "m_en_gbus1078900.019",
+            "m_en_gbus1078900.007"
+        ]
+    },
+    {
+        "pos": [
+            "PAPER",
+            "NURSE"
+        ],
+        "neg": [
+            "STRING",
+            "LOCK",
+            "SWITCH",
+            "CHICK",
+            "CHEST",
+            "FIGHTER"
+        ],
+        "clue": "PRESCRIPTION",
+        "clue_senses": [
+            "m_en_gbus0812210.006",
+            "m_en_gbus0812210.006"
+        ]
+    },
+    {
+        "pos": [
+            "ROCK",
+            "CHEST"
+        ],
+        "neg": [
+            "COMPOUND",
+            "BOW",
+            "CAP",
+            "GLASS",
+            "CHAIR",
+            "DRAFT"
+        ],
+        "clue": "LARGE",
+        "clue_senses": [
+            "m_en_gbus0565860.006",
+            "m_en_gbus0565860.006"
+        ]
+    },
+    {
+        "pos": [
+            "CAT",
+            "DATE"
+        ],
+        "neg": [
+            "ORGAN",
+            "TOKYO",
+            "ARM",
+            "TAP",
+            "THUMB",
+            "LEMON"
+        ],
+        "clue": "WOMAN",
+        "clue_senses": [
+            "m_en_gbus1164800.008",
+            "m_en_gbus1164800.008"
+        ]
+    },
+    {
+        "pos": [
+            "CANADA",
+            "COVER"
+        ],
+        "neg": [
+            "FORCE",
+            "ANGEL",
+            "CHINA",
+            "MARBLE",
+            "LOCK",
+            "BACK"
+        ],
+        "clue": "WEEKND",
+        "clue_senses": [
+            "The_Weeknd",
+            "The_Weeknd"
+        ]
+    },
+    {
+        "pos": [
+            "CHECK",
+            "CASINO"
+        ],
+        "neg": [
+            "PRINCESS",
+            "EYE",
+            "ALIEN",
+            "SLIP",
+            "LUCK",
+            "CYCLE"
+        ],
+        "clue": "MONEY",
+        "clue_senses": [
+            "m_en_gbus0655300.005",
+            "m_en_gbus0655300.005"
+        ]
+    },
+    {
+        "pos": [
+            "TEACHER",
+            "TRACK"
+        ],
+        "neg": [
+            "BANK",
+            "PIN",
+            "CODE",
+            "PALM",
+            "PRESS",
+            "WASHER"
+        ],
+        "clue": "MUSIC",
+        "clue_senses": [
+            "m_en_gbus0672130.007",
+            "m_en_gbus0672130.006"
+        ]
+    },
+    {
+        "pos": [
+            "COOK",
+            "TABLE"
+        ],
+        "neg": [
+            "SHOP",
+            "PISTOL",
+            "HOOD",
+            "OIL",
+            "ROSE",
+            "SPINE"
+        ],
+        "clue": "PLATE",
+        "clue_senses": [
+            "m_en_gbus0788250.006",
+            "m_en_gbus0788250.006"
+        ]
+    },
+    {
+        "pos": [
+            "DINOSAUR",
+            "TICK"
+        ],
+        "neg": [
+            "TELESCOPE",
+            "BEIJING",
+            "GOLD",
+            "MISSILE",
+            "MAIL",
+            "LAB"
+        ],
+        "clue": "ANIMAL",
+        "clue_senses": [
+            "m_en_gbus0034270.005",
+            "m_en_gbus0034270.005"
+        ]
+    },
+    {
+        "pos": [
+            "MOLE",
+            "COVER"
+        ],
+        "neg": [
+            "ENGINE",
+            "PAPER",
+            "FAIR",
+            "THUMB",
+            "PIE",
+            "PALM"
+        ],
+        "clue": "SPY",
+        "clue_senses": [
+            "m_en_gbus0983620.005",
+            "m_en_gbus0983620.005"
+        ]
+    },
+    {
+        "pos": [
+            "TUBE",
+            "SQUARE"
+        ],
+        "neg": [
+            "THEATER",
+            "RABBIT",
+            "ORGAN",
+            "BUGLE",
+            "LINE",
+            "EYE"
+        ],
+        "clue": "CYLINDER",
+        "clue_senses": [
+            "m_en_gbus0245770.019",
+            "m_en_gbus0245770.019"
+        ]
+    },
+    {
+        "pos": [
+            "FIGHTER",
+            "AZTEC"
+        ],
+        "neg": [
+            "HORSE",
+            "NEEDLE",
+            "PARK",
+            "AIR",
+            "TRACK",
+            "SPOT"
+        ],
+        "clue": "CONQUEST",
+        "clue_senses": [
+            "m_en_gbus0211970.005",
+            "m_en_gbus0211970.005"
+        ]
+    },
+    {
+        "pos": [
+            "TOWER",
+            "KANGAROO"
+        ],
+        "neg": [
+            "ROULETTE",
+            "TUBE",
+            "WIND",
+            "MERCURY",
+            "DROP",
+            "PAN"
+        ],
+        "clue": "LARGE",
+        "clue_senses": [
+            "m_en_gbus0565860.006",
+            "m_en_gbus0565860.006"
+        ]
+    },
+    {
+        "pos": [
+            "MISSILE",
+            "ENGINE"
+        ],
+        "neg": [
+            "GHOST",
+            "FOREST",
+            "BATTERY",
+            "PUMPKIN",
+            "FORK",
+            "JUPITER"
+        ],
+        "clue": "ROCKET",
+        "clue_senses": [
+            "m_en_gbus0878380.021",
+            "m_en_gbus0878380.024"
+        ]
+    },
+    {
+        "pos": [
+            "LONDON",
+            "BUCK"
+        ],
+        "neg": [
+            "TURKEY",
+            "IRON",
+            "LIGHT",
+            "PLASTIC",
+            "HONEY",
+            "BAND"
+        ],
+        "clue": "POUND",
+        "clue_senses": [
+            "m_en_gbus0805510.012",
+            "m_en_gbus0805510.012"
+        ]
+    },
+    {
+        "pos": [
+            "MAMMOTH",
+            "BARK"
+        ],
+        "neg": [
+            "PASS",
+            "LIGHT",
+            "AFRICA",
+            "APPLE",
+            "POLICE",
+            "SPIDER"
+        ],
+        "clue": "DOG",
+        "clue_senses": [
+            "m_en_gbus0287810.007",
+            "m_en_gbus0287810.007"
+        ]
+    },
+    {
+        "pos": [
+            "NEW YORK",
+            "LIFE"
+        ],
+        "neg": [
+            "AIR",
+            "HEAD",
+            "STICK",
+            "TRIP"
+        ],
+        "clue": "PEOPLE",
+        "clue_senses": [
+            "m_en_gbus0763900.006",
+            "m_en_gbus0763900.006"
+        ]
+    },
+    {
+        "pos": [
+            "TURKEY",
+            "PIE"
+        ],
+        "neg": [
+            "HAM",
+            "CAR",
+            "ALPS",
+            "COLD"
+        ],
+        "clue": "FOOD",
+        "clue_senses": [
+            "m_en_gbus0378040.005",
+            "m_en_gbus0378040.005"
+        ]
+    },
+    {
+        "pos": [
+            "PIPE",
+            "AIR"
+        ],
+        "neg": [
+            "WORM",
+            "PLATE",
+            "HORSE",
+            "BACK"
+        ],
+        "clue": "SMOKE",
+        "clue_senses": [
+            "m_en_gbus0959090.010",
+            "m_en_gbus0959090.007"
+        ]
+    },
+    {
+        "pos": [
+            "ROULETTE",
+            "CENTER"
+        ],
+        "neg": [
+            "DOG",
+            "KID",
+            "BAND",
+            "LION"
+        ],
+        "clue": "CIRCLE",
+        "clue_senses": [
+            "m_en_gbus0184670.012",
+            "m_en_gbus0184670.008"
+        ]
+    },
+    {
+        "pos": [
+            "TELESCOPE",
+            "EYE"
+        ],
+        "neg": [
+            "CYCLE",
+            "AMAZON",
+            "SMUGGLER",
+            "FLUTE"
+        ],
+        "clue": "SEE",
+        "clue_senses": [
+            "m_en_gbus0917420.011",
+            "m_en_gbus0917420.011"
+        ]
+    },
+    {
+        "pos": [
+            "TRIANGLE",
+            "FORK"
+        ],
+        "neg": [
+            "DUCK",
+            "LAP",
+            "HIMALAYAS",
+            "ROOT"
+        ],
+        "clue": "IMPLEMENT",
+        "clue_senses": [
+            "m_en_gbus0498960.013",
+            "m_en_gbus0498960.013"
+        ]
+    },
+    {
+        "pos": [
+            "BOND",
+            "AIR"
+        ],
+        "neg": [
+            "SPRING",
+            "POISON",
+            "ROW",
+            "MINT"
+        ],
+        "clue": "OXYGEN",
+        "clue_senses": [
+            "m_en_gbus0738650.005",
+            "m_en_gbus0738650.005"
+        ]
+    },
+    {
+        "pos": [
+            "SCALE",
+            "WHALE"
+        ],
+        "neg": [
+            "PRINCESS",
+            "DRAFT",
+            "YARD",
+            "DRAGON"
+        ],
+        "clue": "LARGE",
+        "clue_senses": [
+            "m_en_gbus0565860.006",
+            "m_en_gbus0565860.006"
+        ]
+    },
+    {
+        "pos": [
+            "LINE",
+            "ROOT"
+        ],
+        "neg": [
+            "MATCH",
+            "DECK",
+            "PIE",
+            "SHOT"
+        ],
+        "clue": "NUMBER",
+        "clue_senses": [
+            null,
+            "m_en_gbus0705320.007"
+        ]
+    },
+    {
+        "pos": [
+            "MOSCOW",
+            "LAWYER"
+        ],
+        "neg": [
+            "TABLET",
+            "TAIL",
+            "SINK",
+            "BUG"
+        ],
+        "clue": "LAW",
+        "clue_senses": [
+            "m_en_gbus0568760.007",
+            "m_en_gbus0568760.007"
+        ]
+    },
+    {
+        "pos": [
+            "BARK",
+            "TURKEY"
+        ],
+        "neg": [
+            "CLIFF",
+            "LAB",
+            "ARM",
+            "NUT"
+        ],
+        "clue": "DOG",
+        "clue_senses": [
+            "m_en_gbus0287810.007",
+            "m_en_gbus0287810.007"
+        ]
+    },
+    {
+        "pos": [
+            "BEAR",
+            "SPIDER"
+        ],
+        "neg": [
+            "THEATER",
+            "TRAIN",
+            "SPY",
+            "TEACHER"
+        ],
+        "clue": "ANIMAL",
+        "clue_senses": [
+            "m_en_gbus0034270.005",
+            "m_en_gbus0034270.005"
+        ]
+    },
+    {
+        "pos": [
+            "TURKEY",
+            "GRACE"
+        ],
+        "neg": [
+            "DOCTOR",
+            "HORSESHOE",
+            "PASS",
+            "BALL"
+        ],
+        "clue": "THANKSGIVING",
+        "clue_senses": [
+            "m_en_gbus1044380.013",
+            "m_en_gbus1044380.007"
+        ]
+    },
+    {
+        "pos": [
+            "GIANT",
+            "SCIENTIST"
+        ],
+        "neg": [
+            "HOLLYWOOD",
+            "GREECE",
+            "HEAD",
+            "CLUB"
+        ],
+        "clue": "GIGANTISM",
+        "clue_senses": [
+            "m_en_gbus0413550.006",
+            "m_en_gbus0413550.009"
+        ]
+    },
+    {
+        "pos": [
+            "MEXICO",
+            "PLAY"
+        ],
+        "neg": [
+            "QUEEN",
+            "FLY",
+            "POUND",
+            "CASINO"
+        ],
+        "clue": "OCHOA",
+        "clue_senses": [
+            "Guillermo_Ochoa",
+            "Guillermo_Ochoa"
+        ]
+    },
+    {
+        "pos": [
+            "RACKET",
+            "BUGLE"
+        ],
+        "neg": [
+            "COPPER",
+            "TEACHER",
+            "LONDON",
+            "GROUND"
+        ],
+        "clue": "SOUND",
+        "clue_senses": [
+            "m_en_gbus0970160.008",
+            "m_en_gbus0970160.008"
+        ]
+    },
+    {
+        "pos": [
+            "CELL",
+            "TRUNK"
+        ],
+        "neg": [
+            "PART",
+            "FACE",
+            "POST",
+            "BELL"
+        ],
+        "clue": "PLANT",
+        "clue_senses": [
+            "m_en_gbus0787470.006",
+            "m_en_gbus0787470.006"
+        ]
+    },
+    {
+        "pos": [
+            "MOUNT",
+            "ROCK"
+        ],
+        "neg": [
+            "NOTE",
+            "VET",
+            "UNDERTAKER",
+            "BUTTON"
+        ],
+        "clue": "CLIFF",
+        "clue_senses": [
+            "m_en_gbus0189830.005",
+            "m_en_gbus0189830.005"
+        ]
+    },
+    {
+        "pos": [
+            "SPY",
+            "ROME"
+        ],
+        "neg": [
+            "FILM",
+            "CHANGE",
+            "MAIL",
+            "HOLE"
+        ],
+        "clue": "FASCISM",
+        "clue_senses": [
+            "m_en_gbus0352150.006",
+            "m_en_gbus0352150.006"
+        ]
+    },
+    {
+        "pos": [
+            "OLYMPUS",
+            "GRASS"
+        ],
+        "neg": [
+            "SHADOW",
+            "OLIVE",
+            "GENIUS",
+            "BRIDGE"
+        ],
+        "clue": "DEMETER",
+        "clue_senses": [
+            "m_en_gbus0262960.005",
+            "m_en_gbus0262960.005"
+        ]
+    },
+    {
+        "pos": [
+            "SHOT",
+            "PHOENIX"
+        ],
+        "neg": [
+            "DOG",
+            "TICK",
+            "TIME",
+            "SPOT"
+        ],
+        "clue": "FIRE",
+        "clue_senses": [
+            "m_en_gbus0363890.025",
+            "m_en_gbus0363890.006"
+        ]
+    },
+    {
+        "pos": [
+            "GRASS",
+            "BANK"
+        ],
+        "neg": [
+            "BRUSH",
+            "MARBLE",
+            "ROSE",
+            "BELL"
+        ],
+        "clue": "RIVER",
+        "clue_senses": [
+            "m_en_gbus0876190.005",
+            "m_en_gbus0876190.005"
+        ]
+    },
+    {
+        "pos": [
+            "TRUNK",
+            "MODEL"
+        ],
+        "neg": [
+            "FILM",
+            "DRILL",
+            "CENTAUR",
+            "PIN"
+        ],
+        "clue": "CHEST",
+        "clue_senses": [
+            "m_en_gbus0174190.006",
+            "m_en_gbus0174190.006"
+        ]
+    },
+    {
+        "pos": [
+            "DINOSAUR",
+            "FIELD"
+        ],
+        "neg": [
+            "MOUSE",
+            "TOOTH",
+            "LEAD",
+            "FORK"
+        ],
+        "clue": "PALEONTOLOGY",
+        "clue_senses": [
+            "m_en_gbus0742260.007",
+            "m_en_gbus0742260.007"
+        ]
+    },
+    {
+        "pos": [
+            "SPRING",
+            "ROSE"
+        ],
+        "neg": [
+            "SCORPION",
+            "BOLT",
+            "GOLD",
+            "OLYMPUS"
+        ],
+        "clue": "FLOWER",
+        "clue_senses": [
+            "m_en_gbus0373750.006",
+            "m_en_gbus0373750.006"
+        ]
+    },
+    {
+        "pos": [
+            "PRESS",
+            "ENGLAND"
+        ],
+        "neg": [
+            "KANGAROO",
+            "OLYMPUS",
+            "SHAKESPEARE",
+            "CHINA"
+        ],
+        "clue": "GUARDIAN",
+        "clue_senses": [
+            "The_Guardian",
+            "The_Guardian"
+        ]
+    },
+    {
+        "pos": [
+            "AUSTRALIA",
+            "CROWN"
+        ],
+        "neg": [
+            "WASHINGTON",
+            "SOLDIER",
+            "PARACHUTE",
+            "SCREEN"
+        ],
+        "clue": "ELIZABETH",
+        "clue_senses": [
+            "m_en_gbus0318470.005",
+            "m_en_gbus0318470.005"
+        ]
+    },
+    {
+        "pos": [
+            "SATURN",
+            "SCIENTIST"
+        ],
+        "neg": [
+            "ARM",
+            "DANCE",
+            "SCORPION",
+            "CHEST"
+        ],
+        "clue": "ASTRONOMY",
+        "clue_senses": [
+            "m_en_gbus0054110.006",
+            "m_en_gbus0054110.006"
+        ]
+    },
+    {
+        "pos": [
+            "BOARD",
+            "APPLE"
+        ],
+        "neg": [
+            "WASHINGTON",
+            "KIWI",
+            "CHICK",
+            "SQUARE"
+        ],
+        "clue": "COMPANY",
+        "clue_senses": [
+            "m_en_gbus0205410.006",
+            "m_en_gbus0205410.006"
+        ]
+    },
+    {
+        "pos": [
+            "BACK",
+            "EAGLE"
+        ],
+        "neg": [
+            "ICE CREAM",
+            "NEEDLE",
+            "FLUTE",
+            "CAPITAL"
+        ],
+        "clue": "SPINE",
+        "clue_senses": [
+            "m_en_gbus0978530.007",
+            "m_en_gbus0978530.007"
+        ]
+    },
+    {
+        "pos": [
+            "BILL",
+            "FORCE"
+        ],
+        "neg": [
+            "POUND",
+            "SNOW",
+            "BARK",
+            "HIMALAYAS"
+        ],
+        "clue": "LAW",
+        "clue_senses": [
+            "m_en_gbus0568760.009",
+            "m_en_gbus0568760.007"
+        ]
+    },
+    {
+        "pos": [
+            "TEACHER",
+            "CRASH"
+        ],
+        "neg": [
+            "CLOAK",
+            "CANADA",
+            "MISSILE",
+            "CROWN"
+        ],
+        "clue": "FAIL",
+        "clue_senses": [
+            "m_en_gbus0347460.012",
+            "m_en_gbus0347460.006"
+        ]
+    },
+    {
+        "pos": [
+            "THUMB",
+            "GROUND"
+        ],
+        "neg": [
+            "CIRCLE",
+            "RABBIT",
+            "GHOST",
+            "CRASH"
+        ],
+        "clue": "PRESS",
+        "clue_senses": [
+            "m_en_gbus0812770.013",
+            "m_en_gbus0812770.006"
+        ]
+    },
+    {
+        "pos": [
+            "SCIENTIST",
+            "BEAT"
+        ],
+        "neg": [
+            "COVER",
+            "FISH",
+            "CELL",
+            "RACKET"
+        ],
+        "clue": "MUSICOLOGY",
+        "clue_senses": [
+            "m_en_gbus0672410.005",
+            "m_en_gbus0672410.005"
+        ]
+    },
+    {
+        "pos": [
+            "LEPRECHAUN",
+            "GREECE"
+        ],
+        "neg": [
+            "STRING",
+            "WAKE",
+            "JUPITER",
+            "ROBIN"
+        ],
+        "clue": "IRELAND",
+        "clue_senses": [
+            "m_en_gbus0521630.007",
+            "m_en_gbus0521630.007"
+        ]
+    },
+    {
+        "pos": [
+            "MILLIONAIRE",
+            "LOG"
+        ],
+        "neg": [
+            "OPERA",
+            "TRIP",
+            "JACK",
+            "HELICOPTER"
+        ],
+        "clue": "MILLION",
+        "clue_senses": [
+            "m_en_gbus0644510.006",
+            "m_en_gbus0644510.006"
+        ]
+    },
+    {
+        "pos": [
+            "LEPRECHAUN",
+            "EAGLE"
+        ],
+        "neg": [
+            "CENTER",
+            "TOKYO",
+            "CHAIR",
+            "KNIGHT"
+        ],
+        "clue": "ORGANISM",
+        "clue_senses": [
+            "m_en_gbus0726100.005",
+            "m_en_gbus0726100.005"
+        ]
+    },
+    {
+        "pos": [
+            "CODE",
+            "SPY"
+        ],
+        "neg": [
+            "EYE",
+            "SPIKE",
+            "CHAIR",
+            "ORANGE"
+        ],
+        "clue": "SECRET",
+        "clue_senses": [
+            "m_en_gbus0916420.005",
+            "m_en_gbus0916420.005"
+        ]
+    },
+    {
+        "pos": [
+            "PALM",
+            "STRIKE"
+        ],
+        "neg": [
+            "MILLIONAIRE",
+            "RING",
+            "SERVER",
+            "MOON"
+        ],
+        "clue": "FIST",
+        "clue_senses": [
+            "m_en_gbus0366890.005",
+            "m_en_gbus0366890.005"
+        ]
+    },
+    {
+        "pos": [
+            "BRIDGE",
+            "PLAY"
+        ],
+        "neg": [
+            "NIGHT",
+            "ROBOT",
+            "ROULETTE",
+            "COPPER"
+        ],
+        "clue": "CARD",
+        "clue_senses": [
+            "m_en_gbus0152560.017",
+            "m_en_gbus0152560.017"
+        ]
+    },
+    {
+        "pos": [
+            "KANGAROO",
+            "PANTS"
+        ],
+        "neg": [
+            "TRACK",
+            "LAP",
+            "CLOAK",
+            "MOUNT"
+        ],
+        "clue": "LEG",
+        "clue_senses": [
+            "m_en_gbus0573260.006",
+            "m_en_gbus0573260.006"
+        ]
+    },
+    {
+        "pos": [
+            "GRASS",
+            "FIELD"
+        ],
+        "neg": [
+            "APPLE",
+            "SHAKESPEARE",
+            "PYRAMID",
+            "CHICK"
+        ],
+        "clue": "VEGETATION",
+        "clue_senses": [
+            "m_en_gbus1122690.006",
+            "m_en_gbus1122690.006"
+        ]
+    },
+    {
+        "pos": [
+            "MAMMOTH",
+            "ICE"
+        ],
+        "neg": [
+            "DATE",
+            "FILE",
+            "LITTER",
+            "GREEN"
+        ],
+        "clue": "PLEISTOCENE",
+        "clue_senses": [
+            "m_en_gbus0789820.005",
+            "Pleistocene"
+        ]
+    },
+    {
+        "pos": [
+            "CARD",
+            "SQUARE"
+        ],
+        "neg": [
+            "HEART",
+            "DEGREE",
+            "CHAIR",
+            "TOOTH"
+        ],
+        "clue": "RECTANGLE",
+        "clue_senses": [
+            "m_en_gbus0852330.005",
+            "m_en_gbus0852330.005"
+        ]
+    },
+    {
+        "pos": [
+            "CENTAUR",
+            "BUCK"
+        ],
+        "neg": [
+            "GREECE",
+            "SHADOW",
+            "MINT",
+            "BERLIN"
+        ],
+        "clue": "HORSE",
+        "clue_senses": [
+            "m_en_gbus0479490.007",
+            "m_en_gbus0479490.007"
+        ]
+    },
+    {
+        "pos": [
+            "RAY",
+            "LIGHT"
+        ],
+        "neg": [
+            "PART",
+            "NAIL",
+            "JUPITER",
+            "LUCK"
+        ],
+        "clue": "LASER",
+        "clue_senses": [
+            "m_en_gbus0566390.005",
+            "m_en_gbus0566390.005"
+        ]
+    },
+    {
+        "pos": [
+            "FRANCE",
+            "AMAZON"
+        ],
+        "neg": [
+            "WORM",
+            "BLOCK",
+            "WASHINGTON",
+            "ROCK"
+        ],
+        "clue": "GREECE",
+        "clue_senses": [
+            "m_en_gbus0431330.005",
+            "m_en_gbus0431330.005"
+        ]
+    },
+    {
+        "pos": [
+            "OCTOPUS",
+            "MOUTH"
+        ],
+        "neg": [
+            "GRACE",
+            "ALIEN",
+            "POLE",
+            "STICK"
+        ],
+        "clue": "EAT",
+        "clue_senses": [
+            "m_en_gbus0309180.012",
+            "m_en_gbus0309180.012"
+        ]
+    },
+    {
+        "pos": [
+            "SCHOOL",
+            "AMERICA"
+        ],
+        "neg": [
+            "DWARF",
+            "BATTERY",
+            "ORANGE",
+            "BANK"
+        ],
+        "clue": "HARVARD",
+        "clue_senses": [
+            "m_en_gbus0452820.006",
+            "m_en_gbus0452820.006"
+        ]
+    },
+    {
+        "pos": [
+            "POLICE",
+            "TEACHER"
+        ],
+        "neg": [
+            "PIT",
+            "ROCK",
+            "GROUND",
+            "HOTEL"
+        ],
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
+    },
+    {
+        "pos": [
+            "JET",
+            "KNIGHT"
+        ],
+        "neg": [
+            "OIL",
+            "PLAY",
+            "ROBIN",
+            "DWARF"
+        ],
+        "clue": "FIGHTER",
+        "clue_senses": [
+            "m_en_gbus0360650.011",
+            "m_en_gbus0360650.006"
+        ]
+    },
+    {
+        "pos": [
+            "WHALE",
+            "DOG"
+        ],
+        "neg": [
+            "NUT",
+            "ARM",
+            "DEGREE",
+            "POLICE"
+        ],
+        "clue": "MAMMAL",
+        "clue_senses": [
+            "m_en_gbus0612440.005",
+            "m_en_gbus0612440.005"
+        ]
+    },
+    {
+        "pos": [
+            "TABLE",
+            "ICE CREAM"
+        ],
+        "neg": [
+            "DATE",
+            "PLATE",
+            "COMIC",
+            "WALL"
+        ],
+        "clue": "FOOD",
+        "clue_senses": [
+            "m_en_gbus0378040.005",
+            "m_en_gbus0378040.005"
+        ]
+    },
+    {
+        "pos": [
+            "WEB",
+            "CODE"
+        ],
+        "neg": [
+            "PASTE",
+            "PLASTIC",
+            "QUEEN",
+            "PUPIL"
+        ],
+        "clue": "SERVER",
+        "clue_senses": [
+            "m_en_gbus0927470.015",
+            "m_en_gbus0927470.015"
+        ]
+    },
+    {
+        "pos": [
+            "STAFF",
+            "VET"
+        ],
+        "neg": [
+            "TURKEY",
+            "BACK",
+            "MOON",
+            "INDIA"
+        ],
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
+    },
+    {
+        "pos": [
+            "UNDERTAKER",
+            "HONEY"
+        ],
+        "neg": [
+            "LUCK",
+            "BRIDGE",
+            "WHALE",
+            "BELL"
+        ],
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
+    },
+    {
+        "pos": [
+            "TAP",
+            "PALM"
+        ],
+        "neg": [
+            "YARD",
+            "MOLE",
+            "ROCK",
+            "MOUTH"
+        ],
+        "clue": "FINGER",
+        "clue_senses": [
+            "m_en_gbus0363040.005",
+            "m_en_gbus0363040.005"
+        ]
+    },
+    {
+        "pos": [
+            "LONDON",
+            "EGYPT"
+        ],
+        "neg": [
+            "TORCH",
+            "ORGAN",
+            "BOW",
+            "WATCH"
+        ],
+        "clue": "CAIRO",
+        "clue_senses": [
+            "m_en_gbus0143120.006",
+            "m_en_gbus0143120.006"
+        ]
+    },
+    {
+        "pos": [
+            "SCUBA DIVER",
+            "CONDUCTOR"
+        ],
+        "neg": [
+            "PUMPKIN",
+            "FORCE",
+            "DISEASE",
+            "GAME"
+        ],
+        "clue": "PERSON",
+        "clue_senses": [
+            "m_en_gbus0768650.009",
+            "m_en_gbus0768650.009"
+        ]
+    },
+    {
+        "pos": [
+            "HEAD",
+            "CANADA"
+        ],
+        "neg": [
+            "LASER",
+            "TRIP",
+            "LONDON",
+            "INDIA"
+        ],
+        "clue": "TRUDEAU",
+        "clue_senses": [
+            "m_en_gbus1078330.002",
+            "m_en_gbus1078330.002"
+        ]
+    },
+    {
+        "pos": [
+            "MOUTH",
+            "STRAW"
+        ],
+        "neg": [
+            "FAIR",
+            "HOSPITAL",
+            "LEMON",
+            "EAGLE"
+        ],
+        "clue": "DRINK",
+        "clue_senses": [
+            "m_en_gbus0298240.012",
+            "m_en_gbus0298240.012"
+        ]
+    },
+    {
+        "pos": [
+            "FLUTE",
+            "PIPE"
+        ],
+        "neg": [
+            "MINE",
+            "SCUBA DIVER",
+            "IRON",
+            "SOLDIER"
+        ],
+        "clue": "TUBE",
+        "clue_senses": [
+            "m_en_gbus1080120.006",
+            "m_en_gbus1080120.006"
+        ]
+    },
+    {
+        "pos": [
+            "SHAKESPEARE",
+            "OPERA"
+        ],
+        "neg": [
+            "SNOW",
+            "CRANE",
+            "LASER",
+            "MOUTH"
+        ],
+        "clue": "HAMLET",
+        "clue_senses": [
+            "m_en_gbus0447620.005",
+            "m_en_gbus0447620.005"
+        ]
+    },
+    {
+        "pos": [
+            "JET",
+            "AIR"
+        ],
+        "neg": [
+            "DICE",
+            "BARK",
+            "TABLET",
+            "ROBOT"
+        ],
+        "clue": "FLY",
+        "clue_senses": [
+            "m_en_gbus0375190.023",
+            "m_en_gbus0375190.017"
+        ]
+    },
+    {
+        "pos": [
+            "HOLLYWOOD",
+            "SUPERHERO"
+        ],
+        "neg": [
+            "BUGLE",
+            "CENTER",
+            "HOTEL",
+            "MOUTH"
+        ],
+        "clue": "SUPERMAN",
+        "clue_senses": [
+            "m_en_gbus1014940.006",
+            "m_en_gbus1014940.006"
+        ]
+    },
+    {
+        "pos": [
+            "GLASS",
+            "CHEST"
+        ],
+        "neg": [
+            "CHINA",
+            "STATE",
+            "HAM",
+            "VACUUM"
+        ],
+        "clue": "EYE",
+        "clue_senses": [
+            "m_en_gbus0345010.006",
+            "m_en_gbus0345010.006"
+        ]
+    },
+    {
+        "pos": [
+            "FALL",
+            "CRASH"
+        ],
+        "neg": [
+            "SMUGGLER",
+            "HORN",
+            "GREECE",
+            "NIGHT"
+        ],
+        "clue": "COLLIDE",
+        "clue_senses": [
+            "m_en_gbus0199960.005",
+            "m_en_gbus0199960.005"
+        ]
+    },
+    {
+        "pos": [
+            "JET",
+            "STOCK"
+        ],
+        "neg": [
+            "MERCURY",
+            "KNIFE",
+            "SUPERHERO",
+            "UNDERTAKER"
+        ],
+        "clue": "BOEING",
+        "clue_senses": [
+            "Boeing",
+            "Boeing"
+        ]
+    },
+    {
+        "pos": [
+            "LIGHT",
+            "NIGHT"
+        ],
+        "neg": [
+            "SCORPION",
+            "STRING",
+            "FIGHTER",
+            "SOCK"
+        ],
+        "clue": "DARKNESS",
+        "clue_senses": [
+            "m_en_gbus0250710.006",
+            "m_en_gbus0250710.009"
+        ]
+    },
+    {
+        "pos": [
+            "CZECH",
+            "AMAZON"
+        ],
+        "neg": [
+            "RACKET",
+            "PLOT",
+            "BUG",
+            "SHIP"
+        ],
+        "clue": "BRAZIL",
+        "clue_senses": [
+            "m_en_gbus0122880.005",
+            "m_en_gbus0122880.005"
+        ]
+    },
+    {
+        "pos": [
+            "BEAR",
+            "CHICK"
+        ],
+        "neg": [
+            "JACK",
+            "TABLET",
+            "FORK",
+            "AZTEC"
+        ],
+        "clue": "ANIMAL",
+        "clue_senses": [
+            "m_en_gbus0034270.005",
+            "m_en_gbus0034270.005"
+        ]
+    },
+    {
+        "pos": [
+            "FOREST",
+            "ALPS"
+        ],
+        "neg": [
+            "SLIP",
+            "MARCH",
+            "SCIENTIST",
+            "IRON"
+        ],
+        "clue": "ARDENNES",
+        "clue_senses": [
+            "m_en_gbus0045590.006",
+            "m_en_gbus0045590.006"
+        ]
+    },
+    {
+        "pos": [
+            "OCTOPUS",
+            "WHALE"
+        ],
+        "neg": [
+            "CAPITAL",
+            "WALL",
+            "CRASH",
+            "SHADOW"
+        ],
+        "clue": "OCEAN",
+        "clue_senses": [
+            "m_en_gbus0710410.005",
+            "m_en_gbus0710410.005"
+        ]
+    },
+    {
+        "pos": [
+            "SPIDER",
+            "SCORPION"
+        ],
+        "neg": [
+            "CHANGE",
+            "SCIENTIST",
+            "ARM",
+            "THIEF"
+        ],
+        "clue": "INVERTEBRATE",
+        "clue_senses": [
+            "m_en_gbus0519760.007",
+            "m_en_gbus0519760.007"
+        ]
+    },
+    {
+        "pos": [
+            "BEIJING",
+            "LUCK"
+        ],
+        "neg": [
+            "MISSILE",
+            "KING",
+            "DATE",
+            "LINE"
+        ],
+        "clue": "MACAO",
+        "clue_senses": [
+            "m_en_gbus0604070.006",
+            "m_en_gbus0604070.006"
+        ]
+    },
+    {
+        "pos": [
+            "FALL",
+            "KID"
+        ],
+        "neg": [
+            "TELESCOPE",
+            "CAP",
+            "LAWYER",
+            "TRIP"
+        ],
+        "clue": "PLAYGROUND",
+        "clue_senses": [
+            "m_en_gbus0789130.005",
+            "m_en_gbus0789130.005"
+        ]
+    },
+    {
+        "pos": [
+            "STREAM",
+            "THEATER"
+        ],
+        "neg": [
+            "AGENT",
+            "SATELLITE",
+            "PITCH",
+            "GERMANY"
+        ],
+        "clue": "NETFLIX",
+        "clue_senses": [
+            "Netflix",
+            "Netflix"
+        ]
+    },
+    {
+        "pos": [
+            "AMBULANCE",
+            "CAR"
+        ],
+        "neg": [
+            "TABLET",
+            "HORN",
+            "CALF",
+            "CENTAUR"
+        ],
+        "clue": "VEHICLE",
+        "clue_senses": [
+            "m_en_gbus1122780.010",
+            "m_en_gbus1122780.010"
+        ]
+    }
+]

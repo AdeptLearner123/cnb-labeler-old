@@ -1,0 +1,134 @@
+{
+    "AFRICA": {
+        "strong_clue": "EGYPT",
+        "weak_clue": "ANTARCTICA"
+    },
+    "AGENT": {
+        "strong_clue": "DETECTIVE",
+        "weak_clue": "TEACHER"
+    },
+    "AIR": {
+        "strong_clue": "ATMOSPHERE",
+        "weak_clue": "ARGON"
+    },
+    "ALIEN": {
+        "strong_clue": "SPACE",
+        "weak_clue": "CENTAUR"
+    },
+    "ALPS": {
+        "strong_clue": "EUROPE",
+        "weak_clue": "AMAZON"
+    },
+    "AMAZON": {
+        "strong_clue": "EBAY",
+        "weak_clue": "TOYOTA"
+    },
+    "AMBULANCE": {
+        "strong_clue": "CAR",
+        "weak_clue": "PLANE"
+    },
+    "AMERICA": {
+        "strong_clue": "WASHINGTON",
+        "weak_clue": "MONGOLIA"
+    },
+    "ANGEL": {
+        "strong_clue": "GOD",
+        "weak_clue": "CENTAUR"
+    },
+    "ANTARCTICA": {
+        "strong_clue": "ICE",
+        "weak_clue": "EUROPE"
+    },
+    "APPLE": {
+        "strong_clue": "MELON",
+        "weak_clue": "BURGER"
+    },
+    "ARM": {
+        "strong_clue": "HAND",
+        "weak_clue": "HAIR"
+    },
+    "ATLANTIS": {
+        "strong_clue": "SINK",
+        "weak_clue": "MALTA"
+    },
+    "AUSTRALIA": {
+        "strong_clue": "KANGAROO",
+        "weak_clue": "ITALY"
+    },
+    "AZTEC": {
+        "strong_clue": "SPAIN",
+        "weak_clue": "MONGOL"
+    },
+    "BACK": {
+        "strong_clue": "SPINE",
+        "weak_clue": "NOSE"
+    },
+    "BALL": {
+        "strong_clue": "FRISBEE",
+        "weak_clue": "TOY"
+    },
+    "BAND": {
+        "strong_clue": "RING",
+        "weak_clue": "SHEET"
+    },
+    "BANK": {
+        "strong_clue": "MONEY",
+        "weak_clue": "HOSPITAL"
+    },
+    "BAR": {
+        "strong_clue": "IRON",
+        "weak_clue": "PILLAR"
+    },
+    "BARK": {
+        "strong_clue": "DOG",
+        "weak_clue": "BURP"
+    },
+    "BAT": {
+        "strong_clue": "WING",
+        "weak_clue": "SNAKE"
+    },
+    "BATTERY": {
+        "strong_clue": "ELECTRICITY",
+        "weak_clue": "GASOLINE"
+    },
+    "BEACH": {
+        "strong_clue": "SAND",
+        "weak_clue": "FOREST"
+    },
+    "BEAR": {
+        "strong_clue": "PANDA",
+        "weak_clue": "SNAKE"
+    },
+    "BEAT": {
+        "strong_clue": "STRIKE",
+        "weak_clue": "PINCH"
+    },
+    "BED": {
+        "strong_clue": "SLEEP",
+        "weak_clue": "CHAIR"
+    },
+    "BEIJING": {
+        "strong_clue": "CHINA",
+        "weak_clue": "SEATTLE"
+    },
+    "BELL": {
+        "strong_clue": "HOLLOW",
+        "weak_clue": "PIANO"
+    },
+    "BELT": {
+        "strong_clue": "WAIST",
+        "weak_clue": "SOCK"
+    },
+    "BERLIN": {
+        "strong_clue": "GERMANY",
+        "weak_clue": "MUMBAI"
+    },
+    "BERMUDA": {
+        "strong_clue": "BRITAIN",
+        "weak_clue": "ALASKA"
+    },
+    "BERRY": {
+        "strong_clue": "FRUIT",
+        "weak_clue": "PIZZA"
+    }
+}

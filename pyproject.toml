@@ -22,7 +22,9 @@ negative-labeler                = "cnb_labeler.negative_labeler:main"
 positive-labeler                = "cnb_labeler.positive_labeler:main"
 scenario-creator                = "cnb_labeler.scenario_creator:main"
 scenario-clue-sense             = "cnb_labeler.scenario_clue_sense:main"
+scenario-cardword-sense         = "cnb_labeler.scenario_cardword_sense:main"
 compile-labels                  = "cnb_labeler.compile_labels:main"
+clue-thresholds                 = "cnb_labeler.set_clue_thresholds:main"
 
 [build-system]
 requires = ["poetry-core"]
