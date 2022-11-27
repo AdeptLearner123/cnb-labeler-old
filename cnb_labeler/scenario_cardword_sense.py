@@ -38,9 +38,17 @@ def set_scenario_cardword_senses(scenario, token_to_sense, dictionary):
     cardword_senses = dict()
     for i, word in enumerate(scenario["pos"]):
         clue_sense = scenario["clue_senses"][i]
+        
+        if clue_sense is None:
+            continue
+
         cardword_senses[word] = get_sense_relations(scenario["clue"], clue_sense, word, token_to_sense, dictionary)
     for word in scenario["neg"]:
         clue_sense = scenario["clue_senses"][0]
+
+        if clue_sense is None:
+            continue
+
         cardword_senses[word] = get_sense_relations(scenario["clue"], clue_sense, word, token_to_sense, dictionary)
     scenario["cardword_senses"] = cardword_senses
 
